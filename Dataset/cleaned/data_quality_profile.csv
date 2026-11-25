@@ -1,0 +1,10 @@
+table,rows,columns,grain,primary_key,duplicate_key_rows,exact_duplicate_rows,null_cells,columns_with_nulls
+customers,99441,5,one row per customer_id (one per order; the person is customer_unique_id),customer_id,0,0,0,none
+orders,99441,8,one row per order,order_id,0,0,4908,"order_approved_at: 160; order_delivered_carrier_date: 1,783; order_delivered_customer_date: 2,965"
+order_items,112650,7,one row per item within an order,"order_id, order_item_id",0,0,0,none
+order_payments,103886,5,one row per payment instalment record of an order,"order_id, payment_sequential",0,0,0,none
+order_reviews,99224,7,one row per review of an order,"review_id, order_id",0,0,145903,"review_comment_title: 87,656; review_comment_message: 58,247"
+products,32951,9,one row per product,product_id,0,0,2448,product_category_name: 610; product_name_lenght: 610; product_description_lenght: 610; product_photos_qty: 610; product_weight_g: 2; product_length_cm: 2; product_height_cm: 2; product_width_cm: 2
+sellers,3095,4,one row per seller,seller_id,0,0,0,none
+category_translation,71,2,one row per Portuguese category name,product_category_name,0,0,0,none
+geolocation,1000163,5,one row per zip prefix / lat-lng observation (many per prefix),(none),,261831,0,none

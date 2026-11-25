@@ -1,0 +1,33 @@
+table,step,rows_affected,note
+customers,remove exact duplicate rows,0,rows identical in every column
+orders,parse order_purchase_timestamp as datetime,0,values that failed to parse (set to empty)
+orders,parse order_approved_at as datetime,0,values that failed to parse (set to empty)
+orders,parse order_delivered_carrier_date as datetime,0,values that failed to parse (set to empty)
+orders,parse order_delivered_customer_date as datetime,0,values that failed to parse (set to empty)
+orders,parse order_estimated_delivery_date as datetime,0,values that failed to parse (set to empty)
+orders,remove exact duplicate rows,0,rows identical in every column
+order_items,parse shipping_limit_date as datetime,0,values that failed to parse (set to empty)
+order_items,remove exact duplicate rows,0,rows identical in every column
+order_payments,remove exact duplicate rows,0,rows identical in every column
+order_reviews,parse review_creation_date as datetime,0,values that failed to parse (set to empty)
+order_reviews,parse review_answer_timestamp as datetime,0,values that failed to parse (set to empty)
+order_reviews,remove exact duplicate rows,0,rows identical in every column
+products,remove exact duplicate rows,0,rows identical in every column
+sellers,remove exact duplicate rows,0,rows identical in every column
+customers,add customer_region,99441,Brazilian macro-region (IBGE) derived from state
+orders,analysis scope flag,349,"orders outside 2017-01-01..2018-09-01 (incomplete months); kept in the table, excluded by the SQL views"
+orders,delivered without delivery date,8,kept; excluded from delivery-delay metrics because the delay cannot be measured
+orders,check delivery before purchase,0,impossible dates; none expected
+order_items,check price > 0 and freight >= 0,0,invalid numeric values
+order_payments,zero-value payment records,9,kept (voucher/instalment artefacts); they add nothing to totals
+order_payments,payment_type = not_defined,3,kept; labelled not_defined
+order_reviews,drop free-text comment columns,99224,multi-line Portuguese text breaks CSV imports in Excel/PostgreSQL; replaced by has_comment flag
+order_reviews,orders with more than one review,547,kept; SQL averages scores per order
+products,rename misspelled columns,2,*_lenght -> *_length
+products,missing category -> 'unknown',610,kept so their sales still count
+products,add English category,32951,from translation file + 2 manual translations; 0 left untranslated
+geolocation,not used,1000163,"1M rows, many per zip prefix; state-level analysis uses customers.customer_state instead"
+order_items,check order_id exists in orders,0,orphan rows
+order_items,check product_id exists in products,0,orphan rows
+orders,check customer_id exists in customers,0,orphan rows
+orders,orders with no items,775,mostly canceled/unavailable; contribute zero revenue

@@ -1,0 +1,68 @@
+// =====================================================================
+// DAX measures for the Power BI report. Create a table called _Measures
+// (Home > Enter data > OK) and add each measure to it (Modeling > New measure).
+// Tables: fact_orders (one row per order), fact_order_items (one row per item)
+// Relationship: fact_orders[order_id] 1 --- * fact_order_items[order_id]
+//               cross-filter direction: Both (so a Category slicer filters order KPIs)
+// Expected totals with no filters are in POWERBI_BUILD_GUIDE.md (validate against SQL).
+// =====================================================================
+
+Revenue =
+CALCULATE (
+    SUM ( fact_order_items[price] ),
+    fact_order_items[is_valid_sale] = 1
+)
+
+Orders =
+CALCULATE (
+    DISTINCTCOUNT ( fact_orders[order_id] ),
+    fact_orders[is_valid_sale] = 1,
+    fact_orders[item_count] > 0
+)
+
+Average Order Value =
+DIVIDE ( [Revenue], [Orders] )
+
+Customers =
+CALCULATE (
+    DISTINCTCOUNT ( fact_orders[customer_unique_id] ),
+    fact_orders[is_valid_sale] = 1,
+    fact_orders[item_count] > 0
+)
+
+Average Review Score =
+CALCULATE (
+    AVERAGE ( fact_orders[review_score] ),
+    fact_orders[is_valid_sale] = 1,
+    fact_orders[item_count] > 0
+)
+
+Late Delivery % =
+DIVIDE (
+    SUM ( fact_orders[is_late] ),      // 1 = late, 0 = on time, blank = not measurable
+    COUNT ( fact_orders[is_late] )     // COUNT ignores blanks: delivered orders only
+)
+
+Average Delivery Days =
+AVERAGE ( fact_orders[delivery_days] )
+
+All Orders (any status) =
+COUNTROWS ( fact_orders )
+
+Revenue Share % =
+DIVIDE ( [Revenue], CALCULATE ( [Revenue], ALLSELECTED () ) )
+
+Revenue Previous Month =
+VAR CurrentMonth = MAX ( fact_orders[order_month] )
+RETURN
+    CALCULATE (
+        [Revenue],
+        REMOVEFILTERS ( fact_orders[order_month] ),
+        fact_orders[order_month] = EDATE ( CurrentMonth, -1 )
+    )
+
+Revenue MoM % =
+DIVIDE ( [Revenue] - [Revenue Previous Month], [Revenue Previous Month] )
+
+Late Delivery Count =
+SUM ( fact_orders[is_late] )

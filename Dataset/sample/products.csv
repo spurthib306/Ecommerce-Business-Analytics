@@ -1,0 +1,928 @@
+product_id,product_category_name,product_name_length,product_description_length,product_photos_qty,product_weight_g,product_length_cm,product_height_cm,product_width_cm,category
+d03bd02af9fff4b98f1c972315e5e9ef,moveis_decoracao,56.0,209.0,1.0,1800.0,40.0,10.0,30.0,furniture decor
+680874c570dad71c0a2844cfbf417054,moveis_decoracao,47.0,502.0,1.0,600.0,25.0,25.0,25.0,furniture decor
+5f504b3a1c75b73d6151be81eb05bdc9,cool_stuff,38.0,1176.0,3.0,15350.0,47.0,40.0,47.0,cool stuff
+5a42f73d92034010a4e00360fb0df099,esporte_lazer,55.0,144.0,1.0,3775.0,18.0,13.0,16.0,sports leisure
+f9471562478eba8761bc985b968a0092,utilidades_domesticas,38.0,390.0,1.0,850.0,18.0,21.0,15.0,housewares
+16b06ede456b922e56fbb4b3818aa875,fashion_bolsas_e_acessorios,48.0,382.0,5.0,200.0,16.0,9.0,11.0,fashion bags accessories
+4c6018f41a6c2e5543cc034e94f5ce5b,ferramentas_jardim,44.0,2395.0,1.0,16500.0,40.0,25.0,26.0,garden tools
+e2c3ed9aaddfd2312a6a5fe9b3ddadd3,brinquedos,53.0,579.0,1.0,675.0,22.0,24.0,21.0,toys
+c6336fa91fbd87c359e44f5dca5a90ed,esporte_lazer,39.0,772.0,1.0,150.0,16.0,16.0,11.0,sports leisure
+a77e6c93242ae050800cb3e5b98c2fcd,bebes,59.0,348.0,2.0,8300.0,45.0,25.0,45.0,baby
+09c3d39641970009c198caed304ccfc4,bebes,52.0,1659.0,1.0,300.0,68.0,7.0,13.0,baby
+12827caf723c4ff8030d64dcffe3cdab,beleza_saude,59.0,3939.0,6.0,150.0,28.0,13.0,12.0,health beauty
+5ec9cc4e1217d387b9fedfa362b7bc24,automotivo,56.0,1310.0,1.0,3750.0,42.0,19.0,25.0,auto
+386486367c1f9d4f587a8864ccb6902b,cama_mesa_banho,54.0,120.0,1.0,835.0,40.0,9.0,33.0,bed bath table
+54af11c815f92135fb554bd9c97dd418,cama_mesa_banho,57.0,520.0,1.0,950.0,29.0,10.0,25.0,bed bath table
+5e6248437b2668bba62c0fdd71eaf72d,ferramentas_jardim,42.0,567.0,3.0,1075.0,34.0,31.0,34.0,garden tools
+dcfe76be1e1036cb99e5d8bdc2a1b1c9,esporte_lazer,26.0,3694.0,1.0,300.0,20.0,10.0,15.0,sports leisure
+53b36df67ebb7c41585e8d54d6772e08,relogios_presentes,33.0,523.0,3.0,584.0,16.0,11.0,13.0,watches gifts
+66b5f91356d928ae807ab4ee547f5e3e,pet_shop,47.0,115.0,6.0,500.0,20.0,20.0,20.0,pet shop
+3ac52f93c2299daa201fbb7ff36546f7,informatica_acessorios,60.0,401.0,2.0,150.0,16.0,5.0,15.0,computers accessories
+2eb9b2ef7c1da3c7b99702452ea4729f,tablets_impressao_imagem,64.0,547.0,3.0,300.0,26.0,3.0,26.0,tablets printing image
+54a03278272d6b4da99f843fb8120754,esporte_lazer,52.0,920.0,4.0,600.0,35.0,15.0,30.0,sports leisure
+c2c4115f38ec8f43e1052cf0735e289b,moveis_decoracao,39.0,202.0,1.0,2300.0,40.0,10.0,30.0,furniture decor
+995e25d9b46dee183004994645768d95,esporte_lazer,57.0,722.0,4.0,500.0,16.0,15.0,20.0,sports leisure
+1f8281d23bd0d53a9d2cea4bad53ca58,moveis_decoracao,52.0,745.0,4.0,18200.0,40.0,60.0,40.0,furniture decor
+980ecbcc15fe174ec1e5757c4d75b1bf,agro_industria_e_comercio,48.0,157.0,1.0,250.0,17.0,3.0,10.0,agro industry and commerce
+ea44caac707f7f1325182a538007f838,bebes,59.0,809.0,5.0,6600.0,45.0,25.0,35.0,baby
+90f97298579cd20412fdcc9b7a2d4b6b,alimentos_bebidas,31.0,502.0,1.0,475.0,20.0,16.0,13.0,food drink
+2ac7c9339ff85fff3e1aee3eaf7bb315,utilidades_domesticas,43.0,357.0,1.0,217.0,18.0,5.0,14.0,housewares
+53d2c16e7356d124bb2a3f64ca920754,esporte_lazer,60.0,1412.0,2.0,433.0,16.0,16.0,16.0,sports leisure
+cec6ba506483e17644eb48ee6694f5cf,ferramentas_jardim,56.0,354.0,1.0,5050.0,21.0,35.0,21.0,garden tools
+e94d9f48ab491b190c0f0bdbd12830ae,relogios_presentes,56.0,559.0,2.0,215.0,19.0,13.0,19.0,watches gifts
+18bbb32704d17a575910a8cf8089bce4,telefonia_fixa,57.0,631.0,1.0,725.0,22.0,12.0,17.0,fixed telephony
+2944c269bc95271a46f4c63f07149b0a,cool_stuff,58.0,681.0,3.0,275.0,16.0,16.0,13.0,cool stuff
+ea13d597910697c345c5e41c59512986,moveis_decoracao,54.0,602.0,2.0,1700.0,69.0,20.0,53.0,furniture decor
+f9677c35e1360591bd6b86e3c5c20181,papelaria,34.0,684.0,2.0,300.0,16.0,5.0,11.0,stationery
+f2886fbf788880954be8b4399aead7c8,informatica_acessorios,40.0,522.0,3.0,200.0,20.0,20.0,20.0,computers accessories
+d2f2c2b94c6ac44ece0bd0dd202c7939,moveis_decoracao,54.0,241.0,4.0,1050.0,32.0,12.0,32.0,furniture decor
+c62dee961914cc2e49239963b04258ec,moveis_escritorio,63.0,1352.0,1.0,25400.0,64.0,30.0,74.0,office furniture
+a8fe47ad6f852f93cc92c7b408687de3,esporte_lazer,27.0,202.0,5.0,400.0,70.0,10.0,20.0,sports leisure
+601a360bd2a916ecef0e88de72a6531a,cool_stuff,33.0,897.0,1.0,1600.0,42.0,25.0,15.0,cool stuff
+63d91238d97cbb132fb0ebf97974c6d6,perfumaria,51.0,933.0,1.0,400.0,27.0,5.0,20.0,perfumery
+eba7488e1c67729f045ab43fac426f2e,perfumaria,43.0,259.0,1.0,610.0,22.0,14.0,16.0,perfumery
+c76a2c67b75f1bf675d2c86157537910,pet_shop,56.0,444.0,1.0,900.0,30.0,30.0,30.0,pet shop
+53c61580d8e5c4941a358ee0335c1d5c,construcao_ferramentas_jardim,55.0,2029.0,5.0,210.0,25.0,7.0,15.0,costruction tools garden
+ae1fe986145cc9e80f0d7753d669989f,papelaria,49.0,181.0,2.0,10850.0,60.0,20.0,29.0,stationery
+154e7e31ebfa092203795c972e5804a6,beleza_saude,48.0,575.0,1.0,100.0,20.0,15.0,15.0,health beauty
+1169ec485506aa10f38d941275dfce4b,utilidades_domesticas,58.0,381.0,5.0,550.0,18.0,12.0,12.0,housewares
+3f31e91ff55912757b04a48d7c1337cc,automotivo,56.0,651.0,5.0,6950.0,78.0,4.0,47.0,auto
+19c91ef95d509ea33eda93495c4d3481,beleza_saude,50.0,1257.0,1.0,700.0,25.0,12.0,19.0,health beauty
+8d024e70a7e9e92b8851684d047a7021,esporte_lazer,52.0,642.0,1.0,1136.0,24.0,21.0,18.0,sports leisure
+90ef6790cfc145cf45f9c476d1f47af0,papelaria,49.0,241.0,3.0,6100.0,60.0,20.0,29.0,stationery
+ec242882027ee23182f0e790e4117128,cama_mesa_banho,60.0,872.0,1.0,1400.0,45.0,15.0,35.0,bed bath table
+29fd9022374ff3fef2e8f82c39b4133e,cama_mesa_banho,57.0,427.0,1.0,800.0,45.0,15.0,35.0,bed bath table
+b06e4ddd013b4a1a81e80fe575d9b762,cama_mesa_banho,60.0,226.0,1.0,1500.0,49.0,7.0,40.0,bed bath table
+9bd556e1c4a7917679b89ec2075e9cba,utilidades_domesticas,55.0,271.0,2.0,2700.0,30.0,16.0,33.0,housewares
+5e53af05c040b01584b81b3549945faf,construcao_ferramentas_ferramentas,53.0,470.0,3.0,200.0,16.0,16.0,16.0,costruction tools tools
+36027cd76cee85025c9136de78270a6c,moveis_escritorio,27.0,2161.0,1.0,14600.0,58.0,28.0,58.0,office furniture
+d75e2e75d4471019ee14ae21d5f61704,fashion_calcados,43.0,647.0,3.0,900.0,20.0,9.0,21.0,fashion shoes
+121b5fec5d2e7d0de3c0f58824bbe6ea,livros_interesse_geral,57.0,310.0,1.0,400.0,27.0,6.0,18.0,books general interest
+7f4e034245e45549110139d1de248f83,bebes,55.0,1629.0,1.0,600.0,20.0,13.0,13.0,baby
+e672fbe634ad07cce9d85f412becb2c0,cool_stuff,41.0,909.0,1.0,1400.0,42.0,25.0,15.0,cool stuff
+e84997d75938765ef99930f908ceedf4,papelaria,52.0,431.0,1.0,1900.0,49.0,12.0,36.0,stationery
+78efe838c04bbc568be034082200ac20,moveis_decoracao,57.0,272.0,1.0,2500.0,40.0,10.0,30.0,furniture decor
+7bdb28a55646012fb3348058d629d9bc,instrumentos_musicais,55.0,541.0,3.0,2750.0,103.0,12.0,17.0,musical instruments
+588ec31c89dea5de5dc87e15790df3f4,cama_mesa_banho,60.0,374.0,2.0,6650.0,20.0,40.0,50.0,bed bath table
+f22c9d6ce2431ff939aad39e026cc7ef,automotivo,37.0,1507.0,4.0,2600.0,38.0,18.0,23.0,auto
+87cb507e0daa37bbf34956fd59eba832,relogios_presentes,55.0,167.0,2.0,250.0,16.0,2.0,11.0,watches gifts
+9388e84da6051e85eb86fc653c3aa64f,cama_mesa_banho,54.0,701.0,2.0,1100.0,50.0,12.0,12.0,bed bath table
+2cab5fb805c35e09a71fc411c7849ec2,brinquedos,55.0,816.0,4.0,1000.0,37.0,35.0,25.0,toys
+93c902b021a9e594f658ab1b0351602a,eletronicos,60.0,390.0,7.0,1250.0,26.0,10.0,18.0,electronics
+dde07b9fedc0682cc6acbd81d92ffe22,cool_stuff,51.0,466.0,1.0,500.0,20.0,20.0,30.0,cool stuff
+5c2bb11cf2149bd4d9fffcc1246458c3,papelaria,37.0,531.0,1.0,2283.0,27.0,35.0,35.0,stationery
+e4aa3f3e3209009166c6b79afa8204bc,ferramentas_jardim,60.0,482.0,2.0,1600.0,16.0,4.0,30.0,garden tools
+656e0eca68dcecf6a31b8ececfabe3e8,informatica_acessorios,45.0,236.0,1.0,173.0,18.0,13.0,12.0,computers accessories
+3ede26b9ff5be98aa46feaf2b1416ddb,telefonia,37.0,361.0,3.0,200.0,19.0,3.0,11.0,telephony
+a8c6827a8a59c4b3bd37a9761715f3d8,esporte_lazer,53.0,985.0,2.0,3200.0,16.0,85.0,16.0,sports leisure
+d5cf2d1224d6d3a279dc2593f5a824fa,pet_shop,60.0,770.0,3.0,500.0,35.0,22.0,28.0,pet shop
+6f8ea11c0086a0d13355abc5ee14cc7d,esporte_lazer,38.0,680.0,1.0,241.0,19.0,15.0,16.0,sports leisure
+7d1d3de69616eacb023e39204065a068,moveis_escritorio,60.0,793.0,2.0,20850.0,100.0,10.0,55.0,office furniture
+5f0bdec2fb222061ed8fe52586a5957d,telefonia,42.0,660.0,1.0,113.0,18.0,4.0,11.0,telephony
+30364952b2a2bd659cfdda1b5112358c,cama_mesa_banho,49.0,206.0,1.0,2700.0,55.0,25.0,35.0,bed bath table
+8b51c6ccc9c0548c951214e1cd1547ff,cama_mesa_banho,58.0,678.0,1.0,1000.0,28.0,14.0,16.0,bed bath table
+3713f19c71c4be21ced80738e2fa49bc,moveis_escritorio,45.0,1094.0,1.0,8200.0,53.0,74.0,18.0,office furniture
+1f792af77962621fcc80d95c2897bb19,cama_mesa_banho,40.0,590.0,1.0,250.0,22.0,5.0,16.0,bed bath table
+7c1bd920dbdf22470b68bde975dd3ccf,beleza_saude,59.0,492.0,2.0,200.0,22.0,10.0,18.0,health beauty
+20856303113ea417297aa919436cf183,ferramentas_jardim,50.0,591.0,3.0,1450.0,20.0,20.0,20.0,garden tools
+47531d889b34bc318d8594a7d53fcdb6,utilidades_domesticas,56.0,644.0,3.0,650.0,24.0,5.0,18.0,housewares
+8c6d562d9dde3d9658cf7496f61c1bc0,cama_mesa_banho,53.0,607.0,1.0,225.0,21.0,10.0,14.0,bed bath table
+57f2bc497c1a3ebe41ba7a06d78ed159,relogios_presentes,55.0,336.0,4.0,250.0,16.0,2.0,20.0,watches gifts
+87b42927619008f877bfcdd5068e7edf,moveis_decoracao,40.0,94.0,5.0,300.0,16.0,5.0,20.0,furniture decor
+52e1cb842e4584f2ef09b4a3a68ac929,fashion_bolsas_e_acessorios,48.0,821.0,1.0,100.0,16.0,5.0,16.0,fashion bags accessories
+ec2d43cc59763ec91694573b31f1c29a,cama_mesa_banho,38.0,735.0,5.0,800.0,20.0,20.0,20.0,bed bath table
+679a3e5e1d2bb68982be5734c6e55e63,casa_construcao,57.0,565.0,4.0,800.0,38.0,38.0,22.0,home construction
+19a6ffd4e245a92747a693805163a60f,consoles_games,28.0,790.0,3.0,150.0,23.0,3.0,18.0,consoles games
+42a2bd596fda1baef5719cb74f73030c,cama_mesa_banho,60.0,188.0,1.0,1300.0,44.0,2.0,35.0,bed bath table
+38bd9bace6634c6a98f17942fb637acf,fashion_bolsas_e_acessorios,13.0,218.0,1.0,400.0,20.0,20.0,20.0,fashion bags accessories
+a6f2ba5bb6d6d36ac92ed1faf4d123f2,beleza_saude,52.0,1153.0,1.0,450.0,20.0,15.0,15.0,health beauty
+09dbbe2c4f26cad4d560aea043f9632c,bebes,32.0,1531.0,2.0,800.0,40.0,30.0,50.0,baby
+22ca1399dde9714934f8ec09b6aca2fe,beleza_saude,55.0,782.0,1.0,1650.0,31.0,26.0,29.0,health beauty
+af9418dfcdd7f19b51906a2f32cd6bc0,cama_mesa_banho,59.0,289.0,1.0,2150.0,34.0,9.0,33.0,bed bath table
+ee72ae8f6d0b11d7f04230fc894d7e39,construcao_ferramentas_jardim,46.0,1077.0,1.0,1700.0,22.0,22.0,14.0,costruction tools garden
+0fa81e7123fd0ebe03adbbe99d912827,cama_mesa_banho,60.0,189.0,1.0,1350.0,46.0,2.0,36.0,bed bath table
+18b0e642cbae7251e60a64aa07dd9eb9,informatica_acessorios,24.0,718.0,2.0,200.0,41.0,2.0,29.0,computers accessories
+4298b7e67dc399c200662b569563a2b2,informatica_acessorios,58.0,420.0,1.0,200.0,21.0,14.0,15.0,computers accessories
+1f75be631e988bb0ad750e60e18d043b,beleza_saude,29.0,378.0,2.0,200.0,25.0,10.0,15.0,health beauty
+ad3cad415b6ec472fcdeff903a4a2567,utilidades_domesticas,51.0,386.0,2.0,2700.0,44.0,34.0,16.0,housewares
+34c8873cadb5465f46b7a20b6eb0215b,fashion_bolsas_e_acessorios,15.0,132.0,4.0,50.0,17.0,4.0,13.0,fashion bags accessories
+0c96091f6f20b1d2c946a933370782a4,esporte_lazer,48.0,683.0,1.0,200.0,20.0,4.0,15.0,sports leisure
+6a1c65dbbecc1ece8c22856122a774ac,moveis_decoracao,53.0,770.0,1.0,13650.0,45.0,35.0,45.0,furniture decor
+c3eb7064c36408a9bfc77a42d6ab993c,beleza_saude,48.0,444.0,1.0,30000.0,55.0,75.0,61.0,health beauty
+96f4be9a5580c9fc8f6a6fa033ffb485,fashion_bolsas_e_acessorios,57.0,349.0,2.0,5000.0,100.0,80.0,11.0,fashion bags accessories
+41c24b8ce92d1a2cac62db5edfd088b2,relogios_presentes,27.0,178.0,1.0,314.0,18.0,11.0,14.0,watches gifts
+f7a17d2c51d9df89a4f1711c4ac17f33,utilidades_domesticas,56.0,1245.0,5.0,350.0,22.0,8.0,19.0,housewares
+2a46d3a8cb337e4c4b5db2d6df599cea,eletronicos,53.0,1011.0,3.0,5200.0,20.0,15.0,13.0,electronics
+32bb152336c896d906a6344cdbe1993c,moveis_decoracao,58.0,635.0,1.0,7350.0,30.0,35.0,30.0,furniture decor
+74824accb4f777403366c8e6b4e32d9b,cama_mesa_banho,54.0,701.0,1.0,1000.0,50.0,12.0,12.0,bed bath table
+509869967faff93ff8a7a229abed8641,cama_mesa_banho,54.0,310.0,1.0,950.0,16.0,10.0,16.0,bed bath table
+a1ca62481619b02ad09535f2b418bb75,telefonia,56.0,867.0,3.0,350.0,20.0,16.0,20.0,telephony
+368c6c730842d78016ad823897a372db,ferramentas_jardim,57.0,366.0,2.0,1650.0,30.0,22.0,30.0,garden tools
+39d2584d35b8c7a0deed61ac2e884b9a,esporte_lazer,42.0,317.0,2.0,1907.0,47.0,24.0,35.0,sports leisure
+cb81df0e3ccece253557f2a07df4727e,esporte_lazer,25.0,469.0,1.0,225.0,18.0,15.0,16.0,sports leisure
+1bef08f119466a85a83919d5b80facd3,cama_mesa_banho,39.0,114.0,1.0,250.0,40.0,4.0,30.0,bed bath table
+f745d28cf673e9022060c31f7f11218e,eletrodomesticos_2,58.0,324.0,3.0,425.0,32.0,10.0,16.0,home appliances 2
+dde1e366db6c0e996f4e1d92122b431c,cama_mesa_banho,60.0,216.0,1.0,950.0,36.0,14.0,26.0,bed bath table
+423a6644f0aa529e8828ff1f91003690,agro_industria_e_comercio,54.0,2352.0,3.0,5800.0,30.0,30.0,20.0,agro industry and commerce
+6df3e292ba834323d4d8164d4c88e698,bebes,50.0,524.0,1.0,250.0,23.0,14.0,28.0,baby
+634256dbcd184b3757ffd7632c9fe52a,beleza_saude,49.0,295.0,1.0,150.0,16.0,5.0,17.0,health beauty
+db61ac5970110fba38fe6caf8844dbf5,cama_mesa_banho,58.0,662.0,5.0,650.0,26.0,5.0,25.0,bed bath table
+e350532acfc2ee911b6dcf1029dcb48d,brinquedos,27.0,867.0,5.0,300.0,22.0,6.0,16.0,toys
+13b84ccbd3ce6a81ff8333896dbe84d8,utilidades_domesticas,56.0,595.0,1.0,3350.0,16.0,2.0,11.0,housewares
+b8b426747049f2d3d6e00b486d47dedb,beleza_saude,49.0,819.0,3.0,1250.0,42.0,11.0,12.0,health beauty
+4a266296cc64880551c3efad9739fb2e,instrumentos_musicais,59.0,802.0,2.0,3750.0,18.0,30.0,27.0,musical instruments
+a037c98ed926711d7513cf779d788536,ferramentas_jardim,43.0,1183.0,1.0,250.0,30.0,6.0,11.0,garden tools
+ab5471c55ab7dcdfbf32ed5f4edbd592,cama_mesa_banho,53.0,1156.0,2.0,2450.0,35.0,10.0,20.0,bed bath table
+46f739c1cd676603026c0af4d29ef7a5,automotivo,55.0,212.0,3.0,1850.0,20.0,15.0,20.0,auto
+e251ebd2858be1aa7d9b2087a6992580,ferramentas_jardim,34.0,511.0,4.0,8875.0,40.0,14.0,43.0,garden tools
+c1263771de6bc2dca4fdf0994079dd19,esporte_lazer,59.0,763.0,1.0,1175.0,21.0,32.0,17.0,sports leisure
+d73068913476e74d4f35a6f2d5399ae9,malas_acessorios,40.0,1070.0,1.0,650.0,90.0,5.0,11.0,luggage accessories
+aac7416c2efb28528e5cf18c1f582053,brinquedos,44.0,71.0,2.0,800.0,39.0,30.0,29.0,toys
+5aee6406a4f4071df1f1bec3fa3dcfc6,esporte_lazer,48.0,2056.0,1.0,400.0,18.0,12.0,16.0,sports leisure
+6522b16614da30655a6a5ce4c8f2fb8b,cama_mesa_banho,48.0,1056.0,1.0,550.0,18.0,10.0,18.0,bed bath table
+6ee95908a160b5c24eb2580cd4c3afb5,brinquedos,56.0,771.0,4.0,274.0,17.0,20.0,16.0,toys
+8bab563be2e3316280e3990af91da7b7,eletronicos,49.0,190.0,1.0,133.0,18.0,11.0,14.0,electronics
+87a9863375a0a462b168cb02bdad360c,bebes,58.0,1083.0,1.0,383.0,22.0,14.0,17.0,baby
+a64c80ae3742add8f6a968d49badf726,automotivo,57.0,854.0,6.0,2050.0,20.0,20.0,20.0,auto
+9e0e152552a1323f7e5dcf63d50cdae3,perfumaria,48.0,969.0,3.0,400.0,20.0,11.0,11.0,perfumery
+5cb3d4a74d94e03c6b504197d6fb93b5,beleza_saude,53.0,1502.0,4.0,1250.0,18.0,21.0,27.0,health beauty
+6fdfdddfa3c98723386e5fab78e87be3,fashion_bolsas_e_acessorios,60.0,487.0,14.0,700.0,20.0,10.0,20.0,fashion bags accessories
+092eff69a9499b052a2258f502ea0775,moveis_decoracao,52.0,485.0,2.0,500.0,35.0,8.0,35.0,furniture decor
+17b9f231d057710012fe28e5a1ac5186,unknown,,,,10600.0,40.0,40.0,30.0,unknown
+ab1f9387c0627dd24000bfbc54fdeee0,eletronicos,45.0,456.0,1.0,175.0,22.0,11.0,16.0,electronics
+ae17f8265a23421715164ab420b62b36,utilidades_domesticas,43.0,595.0,1.0,1050.0,30.0,30.0,30.0,housewares
+6ee1607bacba780139e7f7fcd316c1d0,utilidades_domesticas,51.0,127.0,3.0,2100.0,43.0,30.0,11.0,housewares
+07f2e8872fd2d0e17780989da6c06362,malas_acessorios,43.0,727.0,1.0,800.0,19.0,49.0,34.0,luggage accessories
+9bf49e13f79afe62919c79d125d81cf8,ferramentas_jardim,47.0,417.0,4.0,1150.0,22.0,21.0,16.0,garden tools
+3a05a947f28cf46d789adedc107d7595,esporte_lazer,57.0,652.0,1.0,3450.0,16.0,15.0,20.0,sports leisure
+f264c1d9b20b5e4a340254d0405e613b,cool_stuff,48.0,874.0,1.0,1050.0,42.0,25.0,15.0,cool stuff
+9755f955f1fcd2a83ca77997e9de8b83,fashion_bolsas_e_acessorios,38.0,435.0,1.0,188.0,22.0,12.0,21.0,fashion bags accessories
+4013f49ee9fda2d3eb99e7923cba7982,esporte_lazer,58.0,762.0,4.0,500.0,50.0,5.0,30.0,sports leisure
+d5852e1fab9be489b5371a70adad7494,esporte_lazer,25.0,236.0,2.0,400.0,50.0,10.0,17.0,sports leisure
+0e669e3efedd9f3ab75fcbe334e1177e,brinquedos,33.0,628.0,1.0,1310.0,60.0,12.0,24.0,toys
+2b4609f8948be18874494203496bc318,beleza_saude,59.0,492.0,3.0,250.0,22.0,10.0,18.0,health beauty
+5188466ac1bca9e8317ef320cd279b89,beleza_saude,46.0,805.0,1.0,217.0,18.0,5.0,15.0,health beauty
+38273c03eb0f88327f62c1d521260623,informatica_acessorios,49.0,823.0,1.0,150.0,20.0,10.0,20.0,computers accessories
+2052b3c5e08893e567c2fb7778476c75,informatica_acessorios,46.0,227.0,1.0,810.0,16.0,10.0,12.0,computers accessories
+cec09725da5ed01471d9a505e7389d37,esporte_lazer,52.0,1197.0,1.0,2500.0,20.0,11.0,11.0,sports leisure
+d1b571cd58267d8cac8b2afd6e288bbc,ferramentas_jardim,63.0,842.0,1.0,2400.0,40.0,15.0,30.0,garden tools
+9ae64e1163bf254bad20d5155cffb99d,papelaria,59.0,314.0,3.0,8000.0,30.0,55.0,35.0,stationery
+b28428391b08e61232dcc1ccf6bf71bc,beleza_saude,62.0,1621.0,1.0,3600.0,40.0,11.0,21.0,health beauty
+c6dd917a0be2a704582055949915ab32,cool_stuff,54.0,1012.0,1.0,1200.0,42.0,25.0,15.0,cool stuff
+1e1d5e507a02d77ca05f0fbd4783af9c,brinquedos,48.0,273.0,2.0,583.0,18.0,21.0,21.0,toys
+542d6af4881a5a647cde02c201f43916,cama_mesa_banho,54.0,204.0,1.0,550.0,16.0,10.0,16.0,bed bath table
+adeea18a6da4bba9f90b3e77641f6016,informatica_acessorios,52.0,118.0,2.0,100.0,16.0,8.0,11.0,computers accessories
+73914fe8c3e5b38fa0155ab051c6c1d7,beleza_saude,49.0,1616.0,3.0,775.0,28.0,15.0,16.0,health beauty
+aba86c093ccdbac75b09111d57e50004,moveis_escritorio,41.0,154.0,1.0,2600.0,40.0,45.0,39.0,office furniture
+b584de1994f604fa7dfd0b6b9c6c1b99,esporte_lazer,55.0,2361.0,1.0,150.0,16.0,2.0,11.0,sports leisure
+a5d39bdbd8f8873a55299222206fd522,ferramentas_jardim,55.0,617.0,6.0,340.0,14.0,16.0,13.0,garden tools
+5ce6a6914bbb228f4cb4ee93c1cd0d15,brinquedos,36.0,225.0,2.0,1700.0,19.0,27.0,40.0,toys
+8c5876b1c7768217964f353bc7e64393,telefonia,61.0,440.0,1.0,250.0,18.0,3.0,28.0,telephony
+5403528d987ad26e8d7cb25940411987,relogios_presentes,58.0,600.0,3.0,250.0,16.0,2.0,11.0,watches gifts
+8e6dfb07d2c8f0e078107d9e8d3559af,construcao_ferramentas_seguranca,57.0,230.0,2.0,1850.0,37.0,10.0,26.0,construction tools safety
+2635c3e7db0ac6cb3e733cac61ce0ba5,utilidades_domesticas,45.0,466.0,1.0,628.0,21.0,31.0,18.0,housewares
+76b7fa5da50b22fe17d1e7bbde661106,moveis_decoracao,52.0,264.0,1.0,650.0,25.0,25.0,25.0,furniture decor
+cb035acb0af5f79c8ebad476b968574a,utilidades_domesticas,35.0,1174.0,1.0,1000.0,34.0,10.0,21.0,housewares
+c6edce374ec89184d740f3e674add5f4,relogios_presentes,50.0,406.0,3.0,860.0,22.0,14.0,17.0,watches gifts
+34dabb8af33b3756cf72df05fb327011,tablets_impressao_imagem,56.0,512.0,1.0,300.0,26.0,10.0,26.0,tablets printing image
+cc74107a3eceb1b0c1c000edae5a8431,automotivo,32.0,200.0,1.0,250.0,20.0,10.0,15.0,auto
+ff29d8cb1cd0cd5ea37b80dac9939e1c,eletronicos,47.0,485.0,1.0,200.0,30.0,10.0,20.0,electronics
+e8b0fa506cda44528a15318cef8a27a0,informatica_acessorios,41.0,726.0,2.0,1240.0,15.0,5.0,9.0,computers accessories
+36f60d45225e60c7da4558b070ce4b60,informatica_acessorios,33.0,300.0,1.0,207.0,19.0,11.0,14.0,computers accessories
+5ddf71f0c832e1af820031a5a62beb01,eletrodomesticos,50.0,719.0,1.0,100.0,16.0,3.0,13.0,home appliances
+a19b6951c75da43aad691622dd2f6abe,moveis_decoracao,44.0,789.0,1.0,650.0,20.0,35.0,20.0,furniture decor
+688ad0169550f8e2eb0307b61df3ba12,cama_mesa_banho,41.0,515.0,2.0,1050.0,35.0,10.0,45.0,bed bath table
+db624f08f4e059241d3842eb750ecd7b,moveis_sala,41.0,375.0,1.0,1450.0,61.0,2.0,21.0,furniture living room
+c8dc26795ea2ee96f3fa57453cd7667e,pet_shop,59.0,888.0,1.0,300.0,30.0,30.0,30.0,pet shop
+e78506414d2563b6414cfd84b7fa0802,perfumaria,58.0,827.0,1.0,460.0,20.0,14.0,20.0,perfumery
+43423cdffde7fda63d0414ed38c11a73,relogios_presentes,41.0,1159.0,4.0,350.0,16.0,14.0,11.0,watches gifts
+724bdb3b1f6738521676856d7577e451,cama_mesa_banho,56.0,210.0,1.0,500.0,16.0,10.0,16.0,bed bath table
+3a362c0e7f9a69276e2d95869a3e143b,beleza_saude,60.0,919.0,1.0,150.0,22.0,3.0,15.0,health beauty
+2ffdf10e724b958c0f7ea69e97d32f64,relogios_presentes,59.0,582.0,1.0,263.0,17.0,12.0,13.0,watches gifts
+f8d3e4ddff67f24dc2e481c6ed11c505,utilidades_domesticas,57.0,488.0,5.0,750.0,28.0,20.0,28.0,housewares
+0bcc3eeca39e1064258aa1e932269894,ferramentas_jardim,57.0,339.0,2.0,1800.0,37.0,22.0,40.0,garden tools
+868b3136c5b206f91b8208fbfdf2cb7c,cama_mesa_banho,57.0,364.0,2.0,800.0,45.0,10.0,34.0,bed bath table
+b7ef4098281dc17c89d97374e19ef04c,bebes,59.0,708.0,2.0,950.0,39.0,10.0,26.0,baby
+d767651561474e5b08ee9a2674146331,livros_interesse_geral,20.0,928.0,1.0,400.0,33.0,6.0,22.0,books general interest
+4c2394abfbac7ff59ec7a420918562fa,beleza_saude,49.0,1495.0,3.0,600.0,33.0,19.0,13.0,health beauty
+97759b2e2035fcd87986a43119b56c7d,casa_construcao,32.0,638.0,4.0,500.0,17.0,27.0,17.0,home construction
+f28b94930035f99d65318418b424750c,cama_mesa_banho,27.0,1303.0,1.0,7200.0,60.0,5.0,40.0,bed bath table
+4ef2894feb9fb3f164a68f654f841447,beleza_saude,58.0,1399.0,3.0,1500.0,50.0,20.0,20.0,health beauty
+11875b30b49585209e608f40e8082e65,esporte_lazer,26.0,1465.0,1.0,1032.0,17.0,15.0,16.0,sports leisure
+43b54d1fc56ff394092a3dff6be2d39f,beleza_saude,60.0,919.0,1.0,150.0,22.0,3.0,15.0,health beauty
+8163c8c2e8dc7cc8c93d1b30a2e7428b,ferramentas_jardim,58.0,2083.0,5.0,2375.0,33.0,18.0,22.0,garden tools
+02851253400fd18410f8eb4369cff9e1,ferramentas_jardim,52.0,289.0,1.0,3900.0,45.0,6.0,38.0,garden tools
+716854aa9d670cabfec04c7eeddd85b8,fashion_roupa_masculina,46.0,1765.0,2.0,600.0,35.0,35.0,15.0,fashion male clothing
+f77dd338d9f75229a09cbb9a18fd0c9a,cama_mesa_banho,42.0,734.0,5.0,400.0,20.0,20.0,20.0,bed bath table
+fd18f2f8c3c6818f28fee7202d811830,perfumaria,44.0,572.0,1.0,125.0,17.0,11.0,14.0,perfumery
+78f8812dd6c26f65ff9cd09b0318090c,eletronicos,55.0,388.0,7.0,1000.0,22.0,5.0,22.0,electronics
+b0c89945c034268074f5f80b362bda34,cama_mesa_banho,60.0,612.0,1.0,550.0,16.0,10.0,16.0,bed bath table
+1f50c7757334d6acef5e3c5fa64eb3c7,moveis_decoracao,40.0,406.0,3.0,700.0,24.0,19.0,22.0,furniture decor
+98b22c1129886cbd7fcae69d1c93e442,cama_mesa_banho,57.0,188.0,1.0,1350.0,44.0,2.0,35.0,bed bath table
+17823ffd2de8234f0e885a71109613a4,unknown,,,,3750.0,42.0,20.0,24.0,unknown
+e20e8fa3a50b1774e52b89664b3b6ddd,esporte_lazer,44.0,454.0,1.0,628.0,17.0,25.0,14.0,sports leisure
+1269d60fc5efbcf03e7eea49213091c6,cama_mesa_banho,27.0,423.0,1.0,200.0,16.0,12.0,11.0,bed bath table
+c230b471b7e21ff9060e68ee154afd70,unknown,,,,200.0,16.0,5.0,11.0,unknown
+b5e13c9a353102f79c6206ff5cb61a50,brinquedos,59.0,249.0,2.0,1500.0,40.0,25.0,20.0,toys
+93a12c289ca2b78e7069e469f5053ef2,informatica_acessorios,55.0,408.0,1.0,233.0,16.0,14.0,15.0,computers accessories
+432f8a18d8c5b519bf3860e2f32c3273,relogios_presentes,44.0,589.0,3.0,800.0,18.0,12.0,19.0,watches gifts
+aafdd162fb3c1c192698bcee92418e37,brinquedos,56.0,836.0,3.0,400.0,25.0,45.0,20.0,toys
+d1c427060a0f73f6b889a5c7c61f2ac4,informatica_acessorios,59.0,1893.0,1.0,6550.0,20.0,20.0,20.0,computers accessories
+b3cd491b3a347c8becc23fa5515440f9,utilidades_domesticas,60.0,446.0,5.0,15000.0,52.0,28.0,52.0,housewares
+e8ac63e69971f9cf0bd7a7f78b8841ab,relogios_presentes,59.0,544.0,5.0,450.0,16.0,2.0,11.0,watches gifts
+a6b5c06253205267d5a66952a4524a83,ferramentas_jardim,49.0,1154.0,1.0,1625.0,45.0,30.0,30.0,garden tools
+00de606a5dda99c2499f94ef18282977,automotivo,59.0,642.0,5.0,1650.0,60.0,8.0,33.0,auto
+e9a19740a95180e871a7fd864bf65dd7,cama_mesa_banho,53.0,807.0,1.0,1175.0,29.0,19.0,26.0,bed bath table
+831b1757a9744c37ddd574b5eaa3cc9b,telefonia,60.0,792.0,4.0,100.0,17.0,4.0,12.0,telephony
+ab1ecbce7afd9f6e661baa24a5706c9c,perfumaria,23.0,439.0,3.0,350.0,22.0,5.0,14.0,perfumery
+f9a508234fed38c95437c5a16b847774,consoles_games,37.0,1192.0,2.0,250.0,16.0,7.0,15.0,consoles games
+70b8127a4ee86d4b37b3eaf5e337e91b,bebes,55.0,963.0,4.0,18900.0,84.0,23.0,50.0,baby
+dc5810c618a462436499ac6e62aeddc3,esporte_lazer,41.0,249.0,2.0,700.0,20.0,15.0,15.0,sports leisure
+afeeea6271148ee1bb15173b8187c431,telefonia,52.0,1885.0,1.0,450.0,17.0,3.0,11.0,telephony
+fb783e3e545937820b57fe539b2c5a6c,cama_mesa_banho,57.0,189.0,1.0,1100.0,41.0,9.0,31.0,bed bath table
+9d32095f76b97762307e86cfc18dd7a0,cama_mesa_banho,38.0,213.0,2.0,400.0,25.0,9.0,19.0,bed bath table
+146fed9eb1d0f9db43dad0c7c96fc6e8,cama_mesa_banho,50.0,392.0,1.0,1400.0,35.0,10.0,35.0,bed bath table
+a52eee5077b52ed1702997bbb36ca4de,alimentos,44.0,1147.0,1.0,200.0,16.0,11.0,11.0,food
+f40876e0ef3cd5f9132b1f16b04b1346,beleza_saude,42.0,250.0,1.0,427.0,15.0,17.0,14.0,health beauty
+f10f55939660d23138e46c72acb7498b,telefonia,59.0,745.0,3.0,250.0,16.0,17.0,11.0,telephony
+fef6029430dcac1403570d19150408ea,brinquedos,47.0,1057.0,1.0,852.0,24.0,19.0,26.0,toys
+ac6c3623068f30de03045865e4e10089,ferramentas_jardim,59.0,409.0,1.0,3750.0,35.0,40.0,30.0,garden tools
+8e7a3ee016b12c87b5e3e7e717620758,industria_comercio_e_negocios,56.0,2083.0,4.0,850.0,40.0,30.0,30.0,industry commerce and business
+f2d649f157cebee085ed738f23d5d6b7,bebes,42.0,596.0,1.0,350.0,32.0,9.0,16.0,baby
+546acf50e60127aacaed5190d95bf52b,beleza_saude,52.0,3331.0,1.0,2400.0,45.0,30.0,30.0,health beauty
+a72209f6ea270769cecf0ed4168d3893,brinquedos,44.0,603.0,4.0,400.0,30.0,20.0,20.0,toys
+2aa23c51528b71a1c9f2ce72f4fc9ad8,unknown,,,,200.0,35.0,4.0,25.0,unknown
+d48a0a53664a92739f3ff40cdae9078e,livros_interesse_geral,47.0,2748.0,4.0,2100.0,19.0,26.0,11.0,books general interest
+0efe972876d70927f5099b77f387c6c7,moveis_decoracao,63.0,418.0,1.0,1350.0,45.0,15.0,35.0,furniture decor
+fcad6e5643f855de4b616a24e6dd25e4,cama_mesa_banho,53.0,334.0,1.0,15150.0,63.0,30.0,43.0,bed bath table
+e0cf79767c5b016251fe139915c59a26,beleza_saude,55.0,388.0,1.0,250.0,16.0,5.0,15.0,health beauty
+e61c78a7343d82c0539d27df0f7dfc31,cama_mesa_banho,60.0,268.0,1.0,2700.0,41.0,8.0,36.0,bed bath table
+6d8096ca93caea3416a6b24bf411bc86,relogios_presentes,53.0,593.0,2.0,250.0,16.0,11.0,20.0,watches gifts
+77cc62dc80ebe12a0452d1ce0565acdc,esporte_lazer,45.0,2950.0,1.0,1625.0,29.0,21.0,21.0,sports leisure
+2fa39fd27e11b59399565257abf255e7,esporte_lazer,42.0,563.0,1.0,1160.0,23.0,18.0,22.0,sports leisure
+e7bbc0d43d1f5cb09bab95b664236633,informatica_acessorios,38.0,716.0,3.0,833.0,19.0,12.0,17.0,computers accessories
+7814c273ab16783d73a9863ebfa8b141,moveis_decoracao,51.0,756.0,1.0,12250.0,45.0,35.0,45.0,furniture decor
+d13a4acdb64c202e774e815db547e108,beleza_saude,60.0,919.0,1.0,150.0,22.0,3.0,15.0,health beauty
+9766ad53f42ee034fbc0e29c85fe626c,cama_mesa_banho,51.0,385.0,2.0,2500.0,47.0,21.0,41.0,bed bath table
+99a4788cb24856965c36a24e339b6058,cama_mesa_banho,54.0,245.0,1.0,1383.0,50.0,10.0,40.0,bed bath table
+63acd71fee320fca91e3740e7f49f19e,perfumaria,58.0,219.0,1.0,425.0,21.0,21.0,18.0,perfumery
+ba90d9569ff1f3add3d6bc10532688f9,instrumentos_musicais,60.0,2587.0,6.0,750.0,29.0,16.0,14.0,musical instruments
+83b00325c13c44245b2c3a2befa62a0e,bebes,56.0,621.0,1.0,10700.0,40.0,40.0,40.0,baby
+0603d2d85bcc46beb11bd247870c4841,cama_mesa_banho,30.0,66.0,1.0,1450.0,55.0,14.0,43.0,bed bath table
+8a2fde854a6f41aae89ce99303a847e8,esporte_lazer,25.0,3679.0,2.0,150.0,20.0,10.0,15.0,sports leisure
+3a806ac1ab98107febb4ffcf38bc1fac,bebes,53.0,704.0,3.0,4750.0,60.0,20.0,50.0,baby
+b6c8f14b68f929e88c57afd30d88c7e5,informatica_acessorios,63.0,959.0,2.0,225.0,16.0,23.0,19.0,computers accessories
+4deb009c36a910076a023947a7929201,consoles_games,51.0,936.0,2.0,157.0,17.0,8.0,13.0,consoles games
+210927ec4e766c525d07a1c17d4bb578,papelaria,49.0,414.0,1.0,150.0,20.0,20.0,20.0,stationery
+994e65eb77f3501f497e7fd860b0ea9e,ferramentas_jardim,53.0,1725.0,2.0,1000.0,33.0,14.0,14.0,garden tools
+465b705779143ae0e43048b1a25007a1,informatica_acessorios,19.0,189.0,1.0,300.0,23.0,5.0,15.0,computers accessories
+6deaf130a6ca84c4f96de7804880660b,consoles_games,53.0,509.0,2.0,1000.0,20.0,30.0,20.0,consoles games
+c0747e098550ba48a597e31baf37f519,pet_shop,48.0,1533.0,1.0,500.0,16.0,5.0,11.0,pet shop
+c7bcab3a7039340cf46705f43bab3ee2,cama_mesa_banho,60.0,341.0,1.0,1200.0,40.0,7.0,34.0,bed bath table
+76d1a1a9d21ab677a61c3ae34b1b352f,unknown,,,,550.0,16.0,7.0,11.0,unknown
+ab6edd00a29d1e29948284a492497854,eletrodomesticos,56.0,164.0,1.0,300.0,20.0,13.0,12.0,home appliances
+e15cee02291017f6f12b4115ffb417e6,moveis_decoracao,56.0,297.0,2.0,700.0,100.0,5.0,20.0,furniture decor
+26a6bbf34441794b135d4d4642eeece9,livros_interesse_geral,43.0,902.0,1.0,250.0,22.0,2.0,15.0,books general interest
+73a1c27772beb35c2b0caf9a809570f8,automotivo,58.0,217.0,2.0,150.0,25.0,15.0,15.0,auto
+20c74b29c2264ca5ddce774c34d98dc3,construcao_ferramentas_jardim,45.0,1439.0,1.0,10500.0,38.0,17.0,33.0,costruction tools garden
+d5b703c271f43f9c588a6f512a00f77e,brinquedos,27.0,531.0,4.0,150.0,16.0,7.0,20.0,toys
+fe01b643060a6446e59f58e3021e66b3,perfumaria,40.0,659.0,2.0,1250.0,26.0,21.0,20.0,perfumery
+9af9fb5e25c1c09f035e01b7936f6c6e,bebes,18.0,1311.0,3.0,650.0,21.0,10.0,15.0,baby
+caa2013f2d03e815b515557fda15639b,moveis_decoracao,51.0,455.0,6.0,400.0,22.0,22.0,11.0,furniture decor
+381169576b9f3c083a1c3261da161a3b,informatica_acessorios,43.0,677.0,2.0,225.0,25.0,9.0,29.0,computers accessories
+d339b523c298009f15d242a3a99392c7,ferramentas_jardim,51.0,2559.0,3.0,850.0,24.0,9.0,26.0,garden tools
+473795a355d29305c3ea6b156833adf5,perfumaria,36.0,605.0,2.0,100.0,20.0,20.0,20.0,perfumery
+8784c4d113e30be2fb64b69be0551b30,papelaria,58.0,381.0,3.0,1500.0,38.0,30.0,28.0,stationery
+2669a9fe1aaf6cb29071f8f866014afc,audio,60.0,619.0,4.0,450.0,17.0,8.0,12.0,audio
+a35a9f46dcee0a67c8c7ad8493eb4135,informatica_acessorios,33.0,1084.0,2.0,200.0,41.0,2.0,29.0,computers accessories
+64d0feb1bcf9c7fe7b5dad3271c10910,moveis_decoracao,58.0,696.0,7.0,750.0,25.0,15.0,35.0,furniture decor
+83ee05fd05be4375384ffcdeffcc138f,pet_shop,57.0,224.0,3.0,19300.0,45.0,30.0,45.0,pet shop
+a98657f6c266c87a5477b593aa1b7a80,esporte_lazer,52.0,1296.0,1.0,1350.0,26.0,18.0,18.0,sports leisure
+4b703444923b5e57bb73ba343f5ebab7,cama_mesa_banho,49.0,204.0,1.0,264.0,17.0,14.0,16.0,bed bath table
+60432892a0fbbe1ce188be6248a9b5fd,automotivo,59.0,143.0,2.0,50.0,16.0,10.0,11.0,auto
+59391e840980a4bb6df5f44d3d734df7,esporte_lazer,59.0,1025.0,4.0,600.0,16.0,4.0,13.0,sports leisure
+fa126ff62aae83e37857ad495641c878,informatica_acessorios,29.0,1386.0,1.0,600.0,23.0,17.0,15.0,computers accessories
+4039e5b67d430bc9a4078e814d7fafc9,fashion_bolsas_e_acessorios,32.0,287.0,3.0,100.0,19.0,2.0,17.0,fashion bags accessories
+1686ad611d0c19159f8052758f93f660,telefonia,51.0,370.0,2.0,150.0,22.0,7.0,14.0,telephony
+555cdc8ae3abc9870afa02367539b799,relogios_presentes,55.0,190.0,1.0,250.0,16.0,2.0,11.0,watches gifts
+686f5682d2be7689714c5fae465de396,ferramentas_jardim,40.0,275.0,1.0,150.0,16.0,2.0,20.0,garden tools
+eae2dd85f947bc3cd623a4443bc91111,instrumentos_musicais,63.0,569.0,5.0,800.0,26.0,15.0,22.0,musical instruments
+3438c2b09f5a1bb1ed623d3fecafe3b9,moveis_decoracao,40.0,160.0,1.0,500.0,16.0,5.0,11.0,furniture decor
+c1d228e0eb297c790ce9981dac9c340a,automotivo,47.0,2116.0,1.0,1233.0,24.0,10.0,13.0,auto
+74ae869eb82594d9cbe6e934cf143e0c,telefonia,60.0,751.0,3.0,150.0,17.0,4.0,12.0,telephony
+0b6f7f321aeac91ef72512bbae664b13,esporte_lazer,57.0,938.0,4.0,5400.0,16.0,50.0,16.0,sports leisure
+46d6fa3170df63d5372aa59928ba33dd,esporte_lazer,56.0,244.0,2.0,1000.0,60.0,15.0,15.0,sports leisure
+4fe644d766c7566dbc46fb851363cb3b,artes,48.0,1232.0,1.0,1700.0,65.0,6.0,50.0,art
+340e3e28357bb29f7612c86c13d9729a,beleza_saude,59.0,895.0,1.0,200.0,20.0,15.0,15.0,health beauty
+4eaa9539b7777049d7b8451cf44fd967,informatica_acessorios,29.0,859.0,3.0,150.0,16.0,12.0,15.0,computers accessories
+914c9e9af640dd56f48764a225b00f89,moveis_escritorio,47.0,1047.0,1.0,7463.0,56.0,64.0,35.0,office furniture
+05928363cd16fb2d20ccad40992105aa,fashion_bolsas_e_acessorios,53.0,612.0,3.0,250.0,16.0,16.0,13.0,fashion bags accessories
+e0d64dcfaa3b6db5c54ca298ae101d05,relogios_presentes,35.0,514.0,2.0,4338.0,17.0,12.0,14.0,watches gifts
+961d02e19e9ade3ba8aa028c87b0d8f7,informatica_acessorios,57.0,1086.0,4.0,350.0,16.0,4.0,11.0,computers accessories
+7e6c4a0bf900e259f50ba63331fd2785,relogios_presentes,59.0,755.0,2.0,250.0,16.0,2.0,11.0,watches gifts
+5c77339ada5044e33450d5c2660692e0,esporte_lazer,33.0,2146.0,1.0,150.0,16.0,16.0,11.0,sports leisure
+65ce839c7967ed73e05471cbd4cb2ec1,informatica_acessorios,59.0,359.0,4.0,900.0,31.0,13.0,26.0,computers accessories
+68ad45d48d69404aeb71ce87e1b2c948,livros_importados,37.0,452.0,1.0,850.0,33.0,2.0,23.0,books imported
+275bbd43a9fdb71853216091565522ac,moveis_cozinha_area_de_servico_jantar_e_jardim,33.0,513.0,2.0,9800.0,50.0,65.0,35.0,kitchen dining laundry garden furniture
+77f11bb30ec0116ada15b3ff106b744d,telefonia,53.0,880.0,1.0,200.0,18.0,5.0,12.0,telephony
+b0a12a9dc0ed09cc161a586c1e948890,bebes,55.0,174.0,4.0,400.0,30.0,11.0,23.0,baby
+4e1d66c3236bdab451c67f91432035ee,informatica_acessorios,38.0,338.0,1.0,888.0,20.0,15.0,13.0,computers accessories
+4c84f53b7bc2ec06da784fda591018b4,eletroportateis,38.0,297.0,2.0,2500.0,15.0,29.0,30.0,small appliances
+6f73c23e03c7942e89e30a63994cb9b3,fashion_bolsas_e_acessorios,51.0,221.0,2.0,200.0,24.0,4.0,34.0,fashion bags accessories
+00baba5b58e274d0332a0c8a0a66f877,perfumaria,27.0,406.0,4.0,200.0,18.0,7.0,12.0,perfumery
+624b5655a9d76b5a0e7d780dc4733887,telefonia,53.0,264.0,2.0,200.0,19.0,4.0,11.0,telephony
+a298a105818dce6878b787e4af6cff7d,bebes,55.0,1158.0,2.0,400.0,30.0,10.0,30.0,baby
+722dc14e0848efdb771dca6de2929c41,beleza_saude,32.0,397.0,2.0,250.0,16.0,16.0,11.0,health beauty
+522269a832b7c65930e8f0b0fd08e9e8,telefonia,58.0,818.0,6.0,350.0,17.0,4.0,12.0,telephony
+9549dccca71c7bb806cd4acf82c456b5,automotivo,49.0,643.0,1.0,277.0,19.0,22.0,13.0,auto
+237d6339b1e2d4dbc411287b5178a27d,consoles_games,56.0,365.0,2.0,200.0,17.0,2.0,12.0,consoles games
+44c06ea2624ec11360ccb3267b46d528,utilidades_domesticas,52.0,1026.0,1.0,1400.0,35.0,12.0,12.0,housewares
+31fd02b02c33827cbde22902cf80338c,utilidades_domesticas,51.0,1224.0,2.0,200.0,26.0,3.0,21.0,housewares
+b393557cfddb0818ae60d6aba7a82822,papelaria,59.0,543.0,6.0,500.0,21.0,7.0,13.0,stationery
+7b891eb61a8d750ec200483059eecfe8,moveis_decoracao,63.0,516.0,2.0,600.0,80.0,10.0,60.0,furniture decor
+ad0bce7600c071e450d162970917de7d,cama_mesa_banho,53.0,444.0,2.0,750.0,50.0,16.0,16.0,bed bath table
+2bc88b31190908684ebece09e5358592,cool_stuff,40.0,2066.0,1.0,1650.0,33.0,44.0,19.0,cool stuff
+12e3d9b67368b8d1563127a8b3407f79,automotivo,54.0,680.0,1.0,13700.0,35.0,20.0,20.0,auto
+27af179c53bb244ebe3a62f66549beb3,esporte_lazer,52.0,334.0,3.0,3900.0,80.0,21.0,17.0,sports leisure
+083ffd30820b592e294de7ed668ff975,informatica_acessorios,49.0,944.0,3.0,300.0,23.0,8.0,19.0,computers accessories
+a6883f92891e256b926bf8b9c40fbe9f,pet_shop,32.0,633.0,1.0,129.0,18.0,11.0,14.0,pet shop
+235458528f907463ec55ebb1e16b69f0,papelaria,38.0,224.0,1.0,1200.0,16.0,49.0,32.0,stationery
+1de0af19bfefbea493eb82ef59bb2433,utilidades_domesticas,12.0,417.0,1.0,18800.0,65.0,35.0,38.0,housewares
+94b8c08d077273b9896ca6461d4e6e1e,esporte_lazer,45.0,1566.0,4.0,100.0,80.0,9.0,23.0,sports leisure
+ef66e63137bdd1b2e44aa968646fc1e3,moveis_decoracao,41.0,789.0,1.0,750.0,20.0,35.0,20.0,furniture decor
+ceb8943f1e828dc9b58eeb0d0c83a377,esporte_lazer,46.0,1360.0,1.0,3300.0,25.0,8.0,25.0,sports leisure
+fad824f446c61e0e6e1e8644c17a9f59,utilidades_domesticas,50.0,251.0,2.0,700.0,30.0,30.0,40.0,housewares
+c32b1155b886162db8e1ec114699a799,cama_mesa_banho,53.0,381.0,1.0,825.0,25.0,18.0,40.0,bed bath table
+348b10ae8463b0ee175ad03103e59f83,brinquedos,63.0,327.0,5.0,1000.0,18.0,23.0,20.0,toys
+d8b8e82856a488b2cf5bcf21407efa8d,fashion_bolsas_e_acessorios,34.0,67.0,3.0,100.0,17.0,7.0,12.0,fashion bags accessories
+8e0aa05a387182c8ef3cd13b6131e60f,moveis_decoracao,56.0,231.0,1.0,1800.0,44.0,14.0,33.0,furniture decor
+d2e131d6f19ae0d665fc1a6c420b4f4c,relogios_presentes,32.0,352.0,1.0,660.0,19.0,14.0,16.0,watches gifts
+ea012826f2cb04c6fd08522ca179302f,papelaria,58.0,640.0,4.0,500.0,26.0,32.0,26.0,stationery
+7c8e2b381bb0fcba5b368961d7823cd2,pcs,55.0,1131.0,1.0,12050.0,27.0,50.0,53.0,computers
+8340594577e768fdc5ceb3c3973a064b,moveis_decoracao,48.0,219.0,3.0,450.0,16.0,5.0,20.0,furniture decor
+1c47e837f2780378d8485d04ab83a45d,beleza_saude,55.0,1683.0,1.0,375.0,23.0,18.0,23.0,health beauty
+0aabfb375647d9738ad0f7b4ea3653b1,consoles_games,49.0,100.0,4.0,150.0,16.0,12.0,12.0,consoles games
+eb9b44e05684527fbfdfd0ff5cb86250,beleza_saude,20.0,873.0,3.0,400.0,18.0,9.0,28.0,health beauty
+ceda8168fb181a91487d6e924f42334f,unknown,,,,2600.0,43.0,27.0,29.0,unknown
+aca2eb7d00ea1a7b8ebd4e68314663af,moveis_decoracao,44.0,903.0,6.0,2600.0,50.0,10.0,30.0,furniture decor
+d272d0921188b0bd91542d704b21404e,eletronicos,36.0,420.0,1.0,150.0,25.0,7.0,16.0,electronics
+abba23912bdeb1990bd1efa30d888384,relogios_presentes,56.0,723.0,2.0,200.0,16.0,11.0,11.0,watches gifts
+84de44e3c2ce8920c251f5d48aac6132,moveis_decoracao,49.0,962.0,1.0,2050.0,25.0,77.0,15.0,furniture decor
+d727c091d4ce7f59b5e690ce0b58b1ea,artes,54.0,798.0,1.0,1100.0,22.0,16.0,21.0,art
+c68252426f70e1434cf6e465d7cae869,malas_acessorios,53.0,1289.0,2.0,450.0,16.0,40.0,25.0,luggage accessories
+2a2d22ae30e026f1893083c8405ca522,cama_mesa_banho,60.0,744.0,2.0,8350.0,50.0,27.0,38.0,bed bath table
+9c8d68903b5106018c797e0e862ae55d,eletronicos,34.0,453.0,1.0,200.0,25.0,7.0,25.0,electronics
+3bab56924ec762e9340478909312d5c7,brinquedos,39.0,217.0,1.0,400.0,45.0,15.0,35.0,toys
+9ae144079d83bd6ffb2d30284c7c518c,cool_stuff,55.0,943.0,1.0,500.0,16.0,19.0,15.0,cool stuff
+073af5ae737ac55290eb733f67317242,automotivo,55.0,89.0,1.0,700.0,26.0,8.0,14.0,auto
+06f2166336faca73c644b11eaca22d06,informatica_acessorios,60.0,635.0,1.0,600.0,16.0,13.0,13.0,computers accessories
+e052d2aebe5b1887f31d80b47c2aa3c0,informatica_acessorios,40.0,492.0,1.0,200.0,18.0,9.0,16.0,computers accessories
+341624e20527d473745831850a7263ea,cama_mesa_banho,48.0,528.0,1.0,900.0,38.0,20.0,28.0,bed bath table
+79896466715d0179d8e5c8a84e5f0a18,cool_stuff,42.0,3319.0,6.0,1400.0,22.0,29.0,13.0,cool stuff
+18f6ea7e8cff29f8053baac6762449f9,moveis_cozinha_area_de_servico_jantar_e_jardim,44.0,1313.0,4.0,1850.0,45.0,15.0,35.0,kitchen dining laundry garden furniture
+f5e5ad97ed609d83f1f9ef90e2d52450,market_place,46.0,265.0,2.0,200.0,19.0,6.0,14.0,market place
+205604b962ebdae1c924e0d14e6e8ac1,moveis_cozinha_area_de_servico_jantar_e_jardim,42.0,121.0,1.0,3875.0,95.0,22.0,22.0,kitchen dining laundry garden furniture
+3fbc0ef745950c7932d5f2a446189725,beleza_saude,50.0,1257.0,1.0,350.0,19.0,12.0,13.0,health beauty
+386703f26f328414fe118e10a5d92675,telefonia,60.0,776.0,6.0,300.0,17.0,4.0,12.0,telephony
+422879e10f46682990de24d770e7f83d,ferramentas_jardim,56.0,348.0,2.0,1550.0,30.0,22.0,30.0,garden tools
+6b874ff4c71d18e91079b40396bf176a,automotivo,41.0,1117.0,8.0,300.0,31.0,17.0,27.0,auto
+8a5835aeef83efa6aa947f84f92deb0e,relogios_presentes,60.0,430.0,5.0,250.0,16.0,2.0,11.0,watches gifts
+50eece63391870c7fb7c07c92a76d447,casa_conforto,60.0,216.0,3.0,950.0,30.0,20.0,30.0,home confort
+d5a0cb2718dce03ce9c4d0de533021f7,beleza_saude,45.0,3060.0,3.0,300.0,23.0,7.0,15.0,health beauty
+371fa349d92646bbeea5873df0bcdc5a,utilidades_domesticas,49.0,342.0,1.0,490.0,20.0,18.0,16.0,housewares
+db51982bc43b26164c29605b8ed140d6,telefonia_fixa,20.0,286.0,3.0,100.0,19.0,3.0,11.0,fixed telephony
+0fc6914383c2bea767a9562c9d8b43a1,informatica_acessorios,52.0,644.0,4.0,338.0,32.0,6.0,36.0,computers accessories
+b6e352d888ba31d8999af279cd63aa24,utilidades_domesticas,42.0,337.0,2.0,1225.0,27.0,26.0,26.0,housewares
+8b32eb3053c5c248a5e547f8a1bfb859,informatica_acessorios,61.0,680.0,1.0,300.0,16.0,6.0,17.0,computers accessories
+4a0297fe087bf3ab8e126936cef30a28,automotivo,54.0,3152.0,3.0,2850.0,26.0,19.0,22.0,auto
+617186c3d97ea56c9c683a8a3974e8c1,perfumaria,59.0,1071.0,1.0,550.0,21.0,12.0,20.0,perfumery
+5cbd407f3315b628a89206fbc140f6c8,market_place,30.0,615.0,3.0,150.0,22.0,5.0,14.0,market place
+7a10781637204d8d10485c71a6108a2e,relogios_presentes,42.0,236.0,1.0,342.0,18.0,13.0,15.0,watches gifts
+22234a1dd91ce8e88c7b108d198c40ad,beleza_saude,57.0,3110.0,1.0,125.0,19.0,15.0,17.0,health beauty
+08401f48b67a852d06105725c3013eff,brinquedos,58.0,739.0,5.0,350.0,28.0,10.0,12.0,toys
+e39ad6a03434d2664d4b5c3bb331f2d8,telefonia,57.0,1553.0,1.0,150.0,16.0,5.0,11.0,telephony
+28703461662b53348b5e21716f02bcc0,eletrodomesticos_2,56.0,944.0,4.0,2300.0,30.0,30.0,30.0,home appliances 2
+78b7b1ff2d3f06a589354ddf2f4f9db3,perfumaria,31.0,355.0,1.0,448.0,22.0,17.0,17.0,perfumery
+afb20d6bc6e0556ba8e9e724e6ea03bb,beleza_saude,44.0,1081.0,4.0,2000.0,52.0,17.0,35.0,health beauty
+96bdf83ce8bcf48510e8a8ab8b5fb660,fashion_bolsas_e_acessorios,42.0,139.0,4.0,50.0,18.0,18.0,12.0,fashion bags accessories
+c40b4d64d9a3328382ec1fc2948c4af0,telefonia,30.0,797.0,1.0,100.0,17.0,5.0,12.0,telephony
+474bb6b54fc608ca71059a6c4f7ecda3,eletronicos,43.0,538.0,1.0,150.0,30.0,10.0,20.0,electronics
+6410668313e664e438837bf86363fcb9,fashion_bolsas_e_acessorios,42.0,469.0,5.0,100.0,16.0,9.0,11.0,fashion bags accessories
+e5ae72c62ebfa708624f5029d609b160,informatica_acessorios,60.0,367.0,1.0,156.0,18.0,12.0,15.0,computers accessories
+9cbe4a1fd4db99c14512e9b2ff033ec4,cama_mesa_banho,46.0,113.0,1.0,500.0,40.0,4.0,30.0,bed bath table
+d04857e7b4b708ee8b8b9921163edba3,informatica_acessorios,33.0,1127.0,2.0,450.0,16.0,4.0,20.0,computers accessories
+de01db017586d557505e72625f9f49d4,cama_mesa_banho,58.0,696.0,1.0,2600.0,42.0,11.0,36.0,bed bath table
+30caacf4dfc199dc577a9627395a881d,construcao_ferramentas_jardim,40.0,571.0,2.0,650.0,20.0,16.0,20.0,costruction tools garden
+577c6116dcce6a33261911b5225ac475,automotivo,56.0,719.0,6.0,5000.0,53.0,43.0,11.0,auto
+fc1d8637c0268af3db482c14b7ef8e75,cama_mesa_banho,60.0,269.0,1.0,1700.0,34.0,7.0,32.0,bed bath table
+a02d0123079f4ae96001ba2010d1a2df,construcao_ferramentas_iluminacao,57.0,771.0,1.0,12000.0,45.0,35.0,45.0,construction tools lights
+d9a5a0aa013c348c28ff4626ed6dba71,esporte_lazer,60.0,2636.0,1.0,350.0,17.0,10.0,17.0,sports leisure
+45cfee87da128a8f939226bedd92a72d,pet_shop,55.0,703.0,1.0,1500.0,50.0,30.0,33.0,pet shop
+441571d37eb4c02c1686c4a2cff8a8e5,bebes,60.0,1797.0,5.0,850.0,68.0,8.0,13.0,baby
+66b5c5aebf9e74e8311c2c1955e04322,moveis_decoracao,43.0,175.0,1.0,1500.0,37.0,27.0,37.0,furniture decor
+d103baa8d35783ff2772704ed17ddd45,fashion_bolsas_e_acessorios,53.0,553.0,5.0,250.0,16.0,2.0,20.0,fashion bags accessories
+28e1e01400863d6035542c650bc72be4,bebes,59.0,451.0,3.0,10400.0,79.0,23.0,23.0,baby
+5411e9269501a870cabf632f05655131,papelaria,57.0,396.0,3.0,6550.0,38.0,30.0,28.0,stationery
+db4e12399028c661997d99981af68642,brinquedos,35.0,114.0,2.0,300.0,50.0,5.0,35.0,toys
+b1dc70b2d3b0d42b355529c4026a35a7,eletronicos,58.0,256.0,3.0,300.0,16.0,5.0,20.0,electronics
+e7cc48a9daff5436f63d3aad9426f28b,telefonia,58.0,1500.0,4.0,700.0,32.0,15.0,21.0,telephony
+95340a2ad616a8f6d06e890edf417270,papelaria,39.0,219.0,4.0,1700.0,22.0,50.0,30.0,stationery
+af0a917aec9cea3b353ece61a8825326,cama_mesa_banho,58.0,188.0,1.0,1200.0,44.0,2.0,35.0,bed bath table
+e813c8739a6a0706b764a5d4468702a6,beleza_saude,50.0,627.0,3.0,160.0,14.0,15.0,14.0,health beauty
+bc2d9919d641257d3745492c23bd16ee,relogios_presentes,47.0,1096.0,2.0,400.0,17.0,10.0,12.0,watches gifts
+9cb2ed2f273027b8daa3b0863368105c,esporte_lazer,60.0,373.0,1.0,600.0,50.0,5.0,16.0,sports leisure
+e1bf2f209fd2b08e1af3ed71732d9008,pet_shop,34.0,630.0,1.0,127.0,18.0,10.0,14.0,pet shop
+3cdb91cbeb22b6e87c8b595b68dfd5eb,construcao_ferramentas_ferramentas,59.0,326.0,1.0,800.0,30.0,30.0,30.0,costruction tools tools
+7bb99ab3c33719ecee18ad4a8036e705,automotivo,60.0,1780.0,2.0,550.0,21.0,18.0,13.0,auto
+73b4a12b226263790a8726fac9f30b34,moveis_decoracao,63.0,518.0,2.0,900.0,80.0,10.0,60.0,furniture decor
+9bb8ca338e5588c361e34eae02e8fad6,beleza_saude,37.0,314.0,1.0,431.0,19.0,17.0,15.0,health beauty
+bee2e070c39f3dd2f6883a17a5f0da45,informatica_acessorios,53.0,871.0,4.0,175.0,20.0,20.0,20.0,computers accessories
+99dc7241bbddb1c9da9ee00ed8070f56,papelaria,57.0,199.0,1.0,400.0,25.0,15.0,11.0,stationery
+b73091f98b819cf7a339f74ece86aa4b,fashion_underwear_e_moda_praia,39.0,423.0,1.0,200.0,36.0,4.0,20.0,fashion underwear beach
+a89f9c4cd59eaed03ef9cd685c41a8b2,brinquedos,54.0,668.0,8.0,1300.0,52.0,9.0,32.0,toys
+ad88bf1ad347307438c9c852084a06ed,automotivo,45.0,136.0,1.0,100.0,18.0,4.0,11.0,auto
+f73e87b204f0a4bcfa8edda38d11b334,automotivo,58.0,425.0,2.0,150.0,16.0,6.0,11.0,auto
+7b2c4d6fa7d8e50000ac4c7fca609790,eletronicos,58.0,942.0,3.0,575.0,26.0,15.0,18.0,electronics
+bb50f2e236e5eea0100680137654686c,beleza_saude,60.0,2644.0,6.0,400.0,34.0,4.0,22.0,health beauty
+8983a3b149303c013fceabef902e835a,informatica_acessorios,39.0,1193.0,3.0,450.0,16.0,3.0,15.0,computers accessories
+55363f487ca324087a49ddfcfb91b971,cama_mesa_banho,32.0,433.0,1.0,200.0,20.0,12.0,20.0,bed bath table
+0a1ca683d91a7cb9b806f3710873bf47,perfumaria,50.0,1584.0,3.0,700.0,18.0,6.0,17.0,perfumery
+7d6dbf339def0ac9e8da299cfe91bc3a,cama_mesa_banho,51.0,144.0,1.0,600.0,21.0,12.0,14.0,bed bath table
+022649cdc8ef07dddfa3de3409647e00,construcao_ferramentas_ferramentas,56.0,286.0,1.0,825.0,21.0,16.0,16.0,costruction tools tools
+bb95985d24346356f988502bec69af0a,esporte_lazer,56.0,794.0,1.0,2050.0,28.0,34.0,28.0,sports leisure
+75eb4420c8baf2e1efd079c7b7f5d865,esporte_lazer,30.0,359.0,3.0,600.0,23.0,23.0,23.0,sports leisure
+23365beed316535b4105bd800c46670e,telefonia,56.0,351.0,1.0,350.0,19.0,4.0,11.0,telephony
+ba091f760e02c4b603a0a6a52c2d31d8,automotivo,52.0,796.0,3.0,11300.0,60.0,60.0,18.0,auto
+5cb24cb74b433876acfc7eb8aa08cab5,brinquedos,31.0,314.0,1.0,478.0,23.0,20.0,18.0,toys
+50fd2b788dc166edd20512370dac54df,eletronicos,46.0,2285.0,1.0,150.0,30.0,10.0,20.0,electronics
+e2392cbe0b76da9c4e7271a3a71f5d3e,pet_shop,37.0,139.0,1.0,350.0,23.0,20.0,20.0,pet shop
+413fa9f96b1e08ca73401f596e63dae4,telefonia,44.0,351.0,4.0,100.0,19.0,3.0,11.0,telephony
+bfd7070500b5ef628b0216d884d2bc02,informatica_acessorios,52.0,334.0,2.0,151.0,17.0,11.0,21.0,computers accessories
+e0dfc740a058aaf5d2627087f26ee80d,perfumaria,45.0,1170.0,1.0,800.0,20.0,15.0,15.0,perfumery
+61ba71a0b111e24da5c8fd2f0e61b0c1,eletroportateis,41.0,2100.0,2.0,4900.0,32.0,39.0,41.0,small appliances
+70869aae4d447a8815db20569604a9e7,beleza_saude,55.0,1493.0,1.0,2225.0,37.0,12.0,20.0,health beauty
+5215505db2113a032810c3644c346a38,relogios_presentes,59.0,566.0,2.0,250.0,16.0,2.0,20.0,watches gifts
+258ee266f0b142b30248b7c57b56d579,beleza_saude,17.0,48.0,1.0,150.0,19.0,14.0,16.0,health beauty
+4b2c89ca021d0de0c060387a34588316,unknown,,,,200.0,35.0,4.0,25.0,unknown
+fa4e8255202fd921350a6fc716710dae,informatica_acessorios,51.0,2025.0,2.0,350.0,20.0,5.0,20.0,computers accessories
+9fd9505539e1c67c13e4ee824fc1e1cc,beleza_saude,51.0,626.0,1.0,2250.0,26.0,26.0,26.0,health beauty
+39d4f8671e6c7b08d7d0036f4f46390f,pet_shop,55.0,727.0,1.0,6600.0,45.0,35.0,25.0,pet shop
+036a6272d538ae862d248339c4c9adeb,unknown,,,,1800.0,20.0,12.0,25.0,unknown
+58a56598bd27e4169dd5ab99d2eee335,esporte_lazer,59.0,829.0,5.0,250.0,16.0,10.0,11.0,sports leisure
+12728f215b3381cac22b1fba7a97f5cf,eletrodomesticos,59.0,264.0,1.0,1200.0,50.0,2.0,37.0,home appliances
+933de9d29576bc63831e54f7b5bacb8c,cama_mesa_banho,50.0,359.0,2.0,400.0,45.0,5.0,30.0,bed bath table
+ba9943916136c9959e24f71bdae28faa,informatica_acessorios,46.0,669.0,3.0,200.0,35.0,2.0,25.0,computers accessories
+d22f287512fb5bda6efc5c8e6216c6db,beleza_saude,27.0,408.0,1.0,1450.0,41.0,40.0,13.0,health beauty
+3454a52c75a86e23aa6c2c2bfc330dc6,pet_shop,46.0,497.0,3.0,200.0,30.0,10.0,17.0,pet shop
+0efc91aa52d1f0669126d3000a94279b,cama_mesa_banho,52.0,111.0,1.0,2100.0,15.0,18.0,25.0,bed bath table
+82c51c3938503a4ddc096fbed86428d6,construcao_ferramentas_seguranca,58.0,3530.0,4.0,300.0,16.0,11.0,11.0,construction tools safety
+62d8daeee0db3a60c234c2d1bfd10651,cama_mesa_banho,46.0,113.0,1.0,350.0,40.0,4.0,30.0,bed bath table
+e3b5a4c3f8512fe1315f05564e461ff4,informatica_acessorios,50.0,1150.0,1.0,500.0,16.0,12.0,16.0,computers accessories
+e47eff9f97c9536c9f768f86e13252f6,unknown,,,,10250.0,40.0,32.0,32.0,unknown
+bacbde3cf27796fc624ee5fd465065c4,beleza_saude,33.0,1079.0,1.0,150.0,25.0,10.0,25.0,health beauty
+ee0324bc19887939d7d0fcfca68ee955,moveis_decoracao,35.0,306.0,1.0,2700.0,37.0,30.0,20.0,furniture decor
+fbd4031ddbc3d02b95834b62769d3ad0,utilidades_domesticas,55.0,375.0,2.0,10050.0,37.0,61.0,26.0,housewares
+ffc9caf33e2d1e9f44e3e06da19085f7,beleza_saude,22.0,279.0,1.0,2134.0,25.0,22.0,16.0,health beauty
+39a1a3b9314738724fce4b2907ae6686,cama_mesa_banho,60.0,198.0,1.0,1550.0,34.0,7.0,32.0,bed bath table
+7b951373f6045db69ff7a2e4d8c40071,relogios_presentes,46.0,232.0,1.0,184.0,18.0,10.0,13.0,watches gifts
+2b7aa376a6e728560bddb5558cc48e89,moveis_escritorio,59.0,1296.0,1.0,13388.0,54.0,47.0,28.0,office furniture
+28ef7ba5765422d40274d5ebeac97c9b,cama_mesa_banho,48.0,365.0,1.0,10900.0,45.0,15.0,35.0,bed bath table
+7b0837837bc77c47aff31afc04286281,ferramentas_jardim,56.0,1087.0,7.0,10700.0,41.0,23.0,40.0,garden tools
+87283a98b24f9f1ac3a31b631073cf47,fashion_bolsas_e_acessorios,50.0,411.0,5.0,150.0,16.0,5.0,20.0,fashion bags accessories
+86265224a1b25cd13f8b20ffeb6c8e5d,beleza_saude,41.0,596.0,1.0,1250.0,16.0,16.0,15.0,health beauty
+ed7090839f8e749840a20f1c1cc78717,informatica_acessorios,51.0,326.0,1.0,817.0,30.0,15.0,15.0,computers accessories
+ea57ad56367f3fecf63fcfb46d33f3a7,brinquedos,48.0,265.0,1.0,1000.0,36.0,19.0,17.0,toys
+e12f70be6bbe9361e612c973fcf15dcc,bebes,60.0,1882.0,4.0,5962.0,35.0,57.0,52.0,baby
+11491792277842adf3f5bac76ae3dbf5,instrumentos_musicais,57.0,2969.0,5.0,100.0,16.0,16.0,16.0,musical instruments
+532576a988e8cefa38a4531cab18a354,ferramentas_jardim,52.0,68.0,2.0,250.0,22.0,9.0,15.0,garden tools
+f42229541a6335f3ed5268439ea9f414,industria_comercio_e_negocios,51.0,1139.0,2.0,4350.0,16.0,103.0,25.0,industry commerce and business
+ba63ad9eaf3dc6369f8187e7251c0870,perfumaria,38.0,1813.0,3.0,5850.0,27.0,20.0,35.0,perfumery
+ed2067a9c1f79553088a3c67b99a9f97,alimentos,52.0,919.0,1.0,750.0,16.0,12.0,15.0,food
+1c42962612d557f85753b24c2b97070f,informatica_acessorios,43.0,493.0,1.0,50.0,20.0,20.0,18.0,computers accessories
+0ec7b6a863e219792bc4d50d3a62a839,cama_mesa_banho,60.0,2596.0,4.0,7474.0,54.0,29.0,40.0,bed bath table
+94475071013412139f862c0bd7e3bb37,papelaria,46.0,708.0,3.0,317.0,22.0,14.0,22.0,stationery
+17b41b007356c9b333b4e7c1fcedb066,eletronicos,50.0,966.0,2.0,23500.0,60.0,30.0,60.0,electronics
+1d6b1ff2a0ef2336832512132b3af6aa,moveis_decoracao,56.0,1892.0,6.0,1550.0,69.0,11.0,11.0,furniture decor
+159e7e73295b609960c0797eb64b3d39,pet_shop,52.0,418.0,1.0,467.0,22.0,34.0,21.0,pet shop
+163e6400e6dadd0fe04775c5e9331fda,bebes,29.0,462.0,1.0,500.0,47.0,10.0,36.0,baby
+1846ec5a92ed15d0dbf9e0e86c29085c,eletrodomesticos,60.0,210.0,3.0,300.0,27.0,13.0,17.0,home appliances
+2b7f2a7cf1025b94bc5dc6c28746beaf,unknown,,,,800.0,29.0,11.0,23.0,unknown
+0f1734abf5ee5d3b99353b7ccb117426,relogios_presentes,33.0,194.0,2.0,200.0,18.0,6.0,17.0,watches gifts
+0a9a9c25c5a06532d1766e00db833a7f,beleza_saude,36.0,365.0,1.0,100.0,16.0,3.0,15.0,health beauty
+cadb69af336c16aba5c5223599821245,eletronicos,41.0,386.0,1.0,200.0,25.0,7.0,16.0,electronics
+ba4a91633739ceceb2b73b627e2cfbc3,moveis_escritorio,57.0,1296.0,1.0,8750.0,52.0,51.0,17.0,office furniture
+186fe07c8b8005ec6a498587ffbc1352,relogios_presentes,60.0,193.0,3.0,200.0,16.0,2.0,11.0,watches gifts
+5d66715cc928aadd0074f61332698593,eletronicos,52.0,390.0,1.0,150.0,20.0,13.0,18.0,electronics
+5c8aa5d67cf54ed7a5e9d4dd57ef7708,automotivo,55.0,402.0,2.0,100.0,17.0,11.0,12.0,auto
+f7f59e6186e10983a061ac7bdb3494d6,utilidades_domesticas,59.0,459.0,1.0,3700.0,32.0,22.0,46.0,housewares
+c20a3f598c16d77249da67e81caa8317,utilidades_domesticas,57.0,529.0,4.0,575.0,16.0,18.0,12.0,housewares
+c36140521283624c2368a1f6c2fec1ab,bebes,53.0,1608.0,4.0,1300.0,42.0,25.0,15.0,baby
+78cff417987f620d4277395265379d6a,esporte_lazer,33.0,1153.0,1.0,200.0,16.0,16.0,16.0,sports leisure
+1fa52682d6938b129312ef4cffac1711,informatica_acessorios,30.0,351.0,1.0,550.0,34.0,14.0,14.0,computers accessories
+60e77eeb5275ed33a04d1fd482feaac8,informatica_acessorios,51.0,155.0,1.0,50.0,40.0,2.0,24.0,computers accessories
+1da502ed939a029f4bee6cdc8341b4ac,livros_tecnicos,36.0,1345.0,1.0,600.0,23.0,3.0,16.0,books technical
+aad0c94aa869497ef036b7549451134b,brinquedos,33.0,278.0,5.0,300.0,16.0,11.0,14.0,toys
+6d97e5cb4df5111845c6aaafba7111ca,eletrodomesticos,55.0,657.0,1.0,417.0,22.0,25.0,27.0,home appliances
+308e5ad92ea784e15a8f632465837c4b,construcao_ferramentas_construcao,56.0,636.0,1.0,600.0,16.0,12.0,16.0,construction tools construction
+3bbacbe586e957acbf26c63b3ed532a3,pet_shop,53.0,1687.0,2.0,8750.0,50.0,8.0,45.0,pet shop
+d600d7ad2039ff6169fef341624fd281,eletrodomesticos,60.0,262.0,1.0,1400.0,65.0,8.0,38.0,home appliances
+0c46bfb6210825d07804a6d4f81a5a92,beleza_saude,54.0,1616.0,3.0,625.0,28.0,19.0,16.0,health beauty
+bc3d15dd90a6794ea7710f1642aae319,unknown,,,,4050.0,31.0,24.0,26.0,unknown
+7edfb4c96d69a75d28b973bdc2dbcfaf,alimentos_bebidas,28.0,350.0,2.0,250.0,20.0,11.0,15.0,food drink
+aa8cf1d1d094ac7ca06ad3df6d87633a,construcao_ferramentas_construcao,40.0,374.0,1.0,894.0,26.0,19.0,24.0,construction tools construction
+acde6bd0b5f91190e2a123df389b0b47,automotivo,52.0,545.0,4.0,358.0,16.0,6.0,17.0,auto
+29427de7f8a9ee983d9dbc51cec569b4,cool_stuff,54.0,995.0,1.0,4475.0,44.0,24.0,31.0,cool stuff
+7fb04722aba7a2b632bac8f9819796f3,beleza_saude,48.0,594.0,1.0,1850.0,24.0,36.0,23.0,health beauty
+3b60d513e90300a4e9833e5cda1f1d61,unknown,,,,450.0,20.0,12.0,15.0,unknown
+1191e61a83c807323c6c1cb5eac9ff3c,telefonia,59.0,777.0,6.0,350.0,17.0,4.0,12.0,telephony
+b1bd2eebcf90443f4f17e71bb89468a2,esporte_lazer,52.0,520.0,1.0,200.0,16.0,15.0,15.0,sports leisure
+aa050bcc1f43af01b044c36285bbb87c,construcao_ferramentas_construcao,57.0,1519.0,2.0,450.0,28.0,4.0,13.0,construction tools construction
+3ba2b0de14984ce8f072c58be8d701dd,brinquedos,59.0,1164.0,4.0,6133.0,44.0,35.0,48.0,toys
+27822f63a7f1bbbf439dfbdbec05b129,unknown,,,,8800.0,40.0,40.0,30.0,unknown
+9e47ae55f9327141d2dc2cbca3317e49,construcao_ferramentas_seguranca,59.0,551.0,1.0,300.0,20.0,4.0,18.0,construction tools safety
+03fbf722447bf7fb4a99aff40b8ede7a,instrumentos_musicais,59.0,761.0,2.0,7550.0,37.0,23.0,38.0,musical instruments
+9fc0c73ce4d0eaaead44e81eeefebeb0,esporte_lazer,57.0,1949.0,1.0,350.0,21.0,26.0,21.0,sports leisure
+63de2743d05ab59d85caa49e49459ac1,beleza_saude,51.0,951.0,1.0,178.0,18.0,11.0,17.0,health beauty
+c98b240226f68cdb71a1b4b24d5f3843,cool_stuff,18.0,140.0,2.0,800.0,19.0,11.0,12.0,cool stuff
+b2a276c8b8261ba2c2c46bcfa1f522ee,perfumaria,44.0,828.0,4.0,1000.0,20.0,20.0,20.0,perfumery
+f2317e7dd5b1b4dea36595ff6db6f14b,unknown,,,,500.0,19.0,7.0,11.0,unknown
+19421075ae0b585f2dc13ff149e2119d,esporte_lazer,32.0,1797.0,1.0,150.0,16.0,16.0,11.0,sports leisure
+bb48c8fda6bcf73c9a0178fd1a1a366d,cama_mesa_banho,59.0,58.0,1.0,400.0,20.0,2.0,15.0,bed bath table
+5b8423dc7f23089c9c59c5d140eb5a1c,brinquedos,59.0,1629.0,3.0,5250.0,51.0,15.0,52.0,toys
+1e662f768907b55013557beb5ccfbeaa,telefonia,38.0,2276.0,5.0,400.0,18.0,13.0,18.0,telephony
+138059a996d59a87553da752d48cc130,utilidades_domesticas,58.0,1481.0,3.0,400.0,36.0,2.0,46.0,housewares
+51f876eb62be778c757503cf7f8a3b74,beleza_saude,33.0,198.0,1.0,67.0,17.0,15.0,14.0,health beauty
+f74ed500ab93d12ce3fbc611474d89af,papelaria,31.0,386.0,5.0,1900.0,35.0,45.0,15.0,stationery
+e9def91e99c8ecb7c5cef5e31506a056,brinquedos,34.0,867.0,2.0,500.0,19.0,11.0,20.0,toys
+fd3ceef50842d4449ec638256dcf2147,informatica_acessorios,52.0,552.0,1.0,3313.0,18.0,20.0,15.0,computers accessories
+20090bcd0d43eb49feb63d53d387780b,cool_stuff,63.0,2597.0,10.0,300.0,17.0,17.0,20.0,cool stuff
+0693bcecfea57f2ad547d1ff56c7d9ea,cama_mesa_banho,46.0,400.0,1.0,1000.0,35.0,5.0,20.0,bed bath table
+704ef63ad0ac345842ea734060a83db2,cama_mesa_banho,55.0,249.0,1.0,850.0,38.0,10.0,38.0,bed bath table
+b5694f734bee2683d25bb188a7f45b40,papelaria,50.0,684.0,2.0,100.0,16.0,2.0,11.0,stationery
+5ac3db3f4250d6add6afca7518ea7ed9,moveis_decoracao,53.0,608.0,2.0,400.0,30.0,4.0,20.0,furniture decor
+be75efb07aff79cef2eec7ddc5de3952,esporte_lazer,31.0,236.0,2.0,1250.0,60.0,15.0,15.0,sports leisure
+a92930c327948861c015c919a0bcb4a8,relogios_presentes,59.0,319.0,4.0,250.0,16.0,2.0,20.0,watches gifts
+463013aa75c3e698fc887b04b225f435,ferramentas_jardim,59.0,466.0,1.0,450.0,18.0,12.0,13.0,garden tools
+688f7f7b6c5a6788b084c4cc80f988f8,telefonia,60.0,540.0,4.0,300.0,17.0,4.0,12.0,telephony
+aa5889064ca9c81e3a9dc65dd018187c,esporte_lazer,33.0,2440.0,2.0,1200.0,30.0,20.0,20.0,sports leisure
+ea1d59339533cb7f68f0319501d8e4d4,agro_industria_e_comercio,60.0,876.0,2.0,9900.0,29.0,49.0,36.0,agro industry and commerce
+b71c0cacf053d9d8f92eb5965d8bd00c,bebes,44.0,468.0,2.0,300.0,31.0,10.0,11.0,baby
+3a621027279799b05b8b6492a92308ca,telefonia_fixa,18.0,280.0,3.0,65.0,19.0,3.0,11.0,fixed telephony
+2d37d1dbcba865841a1c8cfab20ab9a1,moveis_decoracao,56.0,1105.0,4.0,350.0,50.0,3.0,25.0,furniture decor
+562502b79845deae9bcd86384921a2c5,moveis_decoracao,51.0,1010.0,5.0,200.0,25.0,40.0,25.0,furniture decor
+174b4bb32fd935b233654b5d48c438d8,cama_mesa_banho,59.0,583.0,1.0,500.0,33.0,3.0,23.0,bed bath table
+4cac1a12a6fe9ffba4a9556dbe582e28,automotivo,46.0,365.0,1.0,200.0,16.0,5.0,20.0,auto
+0981ba54d8ddc68299f7c7a7d23bb2c9,cama_mesa_banho,47.0,1006.0,1.0,1150.0,40.0,8.0,32.0,bed bath table
+59e9e55854bde29f3942510af639b7d1,automotivo,52.0,816.0,5.0,325.0,18.0,13.0,13.0,auto
+f71973c922ccaab05514a36a8bc741b8,malas_acessorios,47.0,482.0,2.0,16100.0,35.0,65.0,44.0,luggage accessories
+fbf7215badcb7ebd5b322b71a0733fb8,utilidades_domesticas,55.0,4.0,2.0,5534.0,73.0,16.0,45.0,housewares
+d199462b8361a3e047e64595bce5b6ea,papelaria,49.0,483.0,2.0,550.0,20.0,20.0,20.0,stationery
+0cf41187284d7f099adc8415a743ebbd,bebes,60.0,644.0,1.0,300.0,16.0,16.0,16.0,baby
+2a055622bea2fc1278c4ffef9eeec87b,esporte_lazer,25.0,725.0,2.0,250.0,20.0,8.0,11.0,sports leisure
+d26580768894ea0cdc9f19dc672956c2,utilidades_domesticas,44.0,586.0,3.0,3950.0,42.0,14.0,22.0,housewares
+e53e557d5a159f5aa2c5e995dfdf244b,informatica_acessorios,33.0,256.0,1.0,180.0,17.0,10.0,13.0,computers accessories
+3fc18e3aefe7b9346bd15de863fa0365,utilidades_domesticas,43.0,808.0,1.0,2850.0,30.0,30.0,30.0,housewares
+9ba8f142d5750b47282d95c0dad1ef57,alimentos,51.0,589.0,1.0,500.0,16.0,16.0,16.0,food
+ad0a798e7941f3a5a2fb8139cb62ad78,cama_mesa_banho,55.0,617.0,1.0,600.0,16.0,10.0,16.0,bed bath table
+cd48f265a63e13b762601f5f794c5fca,bebidas,48.0,859.0,3.0,175.0,23.0,21.0,21.0,drinks
+d9829478d893607ea2b8d26c7f546a3f,perfumaria,36.0,59.0,2.0,125.0,16.0,4.0,11.0,perfumery
+fc40fe8ca610260f036ecf18dd8d3b24,brinquedos,29.0,1132.0,2.0,5543.0,39.0,34.0,37.0,toys
+c3ee182803f3eddeda33f9b821bf9e21,pet_shop,43.0,530.0,2.0,500.0,20.0,35.0,20.0,pet shop
+0e2d52789a024cfd6f9204778320a8e5,moveis_quarto,43.0,435.0,4.0,9800.0,86.0,8.0,40.0,furniture bedroom
+764292b2b0f73f77a0272be03fdd45f3,moveis_decoracao,56.0,701.0,5.0,750.0,30.0,30.0,11.0,furniture decor
+c92f0e7b9d49a9543558d6532772441b,malas_acessorios,48.0,485.0,5.0,17550.0,73.0,20.0,47.0,luggage accessories
+11182511f8556822085ea032df785dae,eletronicos,35.0,615.0,1.0,347.0,18.0,12.0,13.0,electronics
+c6b0d66ba7993cb94d4a19d1578ba802,cama_mesa_banho,47.0,1423.0,1.0,1100.0,35.0,20.0,20.0,bed bath table
+51ce723ffd19d9d8d7893b8e835bf3cf,unknown,,,,5700.0,40.0,45.0,40.0,unknown
+b343cce43d6f08fe602d2892b106ad59,moveis_escritorio,55.0,569.0,1.0,9200.0,52.0,51.0,17.0,office furniture
+c403e106353e1aa40efe783ecb39ed7a,cama_mesa_banho,30.0,169.0,1.0,550.0,40.0,5.0,30.0,bed bath table
+20a3c5e7a7b340a10612559c2a03f68c,automotivo,58.0,695.0,6.0,6325.0,56.0,11.0,32.0,auto
+e03102efbc2229024c89be731f0aedcb,papelaria,57.0,366.0,4.0,750.0,101.0,15.0,15.0,stationery
+4b5b5541f871f879ee44aa461968e90b,telefonia_fixa,42.0,309.0,3.0,100.0,19.0,3.0,11.0,fixed telephony
+44d097d59e8430f88a67517cd0c4f865,fashion_bolsas_e_acessorios,55.0,151.0,6.0,350.0,16.0,2.0,20.0,fashion bags accessories
+7957db057ee41836617b2ad71e367756,eletronicos,30.0,703.0,1.0,200.0,20.0,20.0,20.0,electronics
+9e0abf2fbcf4445cb287fbf474dcd8ed,consoles_games,47.0,535.0,2.0,400.0,16.0,21.0,14.0,consoles games
+7ce94ab189134e2d3c05f496d635419c,eletronicos,39.0,400.0,1.0,200.0,25.0,7.0,16.0,electronics
+801f31733449dbc73ff67eb9117898e3,eletrodomesticos,60.0,341.0,1.0,150.0,18.0,8.0,13.0,home appliances
+2cce627260aeb5a7d459a788e458bd5d,utilidades_domesticas,53.0,170.0,1.0,217.0,22.0,25.0,24.0,housewares
+e1e0040c906cc890d032092141a9b6de,esporte_lazer,60.0,1416.0,1.0,200.0,18.0,18.0,18.0,sports leisure
+787a7fee45732e04f90ace8fda0ed076,papelaria,45.0,300.0,4.0,100.0,16.0,6.0,11.0,stationery
+f3bbbaabf3ce091b88d2511c1a29796c,utilidades_domesticas,41.0,923.0,4.0,350.0,18.0,8.0,11.0,housewares
+1d9263e74c3e8e57d3a7bd505b7b871e,informatica_acessorios,42.0,885.0,1.0,200.0,28.0,2.0,40.0,computers accessories
+fadde2aec26938dd22add77b290d279d,utilidades_domesticas,57.0,614.0,1.0,4400.0,24.0,28.0,39.0,housewares
+c10d7c70907ad6d09ada0581ef6bf839,relogios_presentes,58.0,502.0,3.0,2050.0,50.0,5.0,20.0,watches gifts
+a0cb23ea9b98f51407ac7bd1fcd29c2e,telefonia,31.0,1440.0,1.0,100.0,18.0,6.0,11.0,telephony
+21af4f32f6f1cab0bb13d7563dc06e70,construcao_ferramentas_iluminacao,45.0,922.0,3.0,700.0,16.0,19.0,16.0,construction tools lights
+6fb42788c5ef9affaa2fec30ca8b6053,ferramentas_jardim,39.0,372.0,1.0,200.0,16.0,3.0,13.0,garden tools
+bc23e7ab33428b722eb04acc660423ad,papelaria,58.0,88.0,4.0,8450.0,35.0,60.0,40.0,stationery
+1de74e63d630007567726953a4eb2b36,fashion_underwear_e_moda_praia,25.0,396.0,2.0,150.0,35.0,10.0,25.0,fashion underwear beach
+c23687a012b702cc7d231d3b07deb6e2,beleza_saude,41.0,1632.0,1.0,1600.0,25.0,16.0,18.0,health beauty
+7340a3839a1de1e99d149b8cf052a2ec,cama_mesa_banho,56.0,536.0,1.0,800.0,45.0,15.0,35.0,bed bath table
+130482add9fd75ccb6c57ba007694a2d,informatica_acessorios,55.0,60.0,1.0,2800.0,40.0,15.0,40.0,computers accessories
+629cd04871a85607710a2bc120766c0d,cool_stuff,43.0,813.0,3.0,3042.0,37.0,15.0,43.0,cool stuff
+d2f7e9449566eb0658d4f5092d71e8a4,fashion_bolsas_e_acessorios,47.0,130.0,4.0,425.0,17.0,4.0,13.0,fashion bags accessories
+c32788bc915b1ce4316822a1b7c4ec91,utilidades_domesticas,58.0,285.0,2.0,2000.0,28.0,60.0,28.0,housewares
+c3ba4e8d3cb30049213b682e751e9d00,relogios_presentes,58.0,737.0,3.0,350.0,16.0,2.0,20.0,watches gifts
+596faa581e9b1ca7d28a1c0777a8423b,brinquedos,33.0,739.0,3.0,500.0,20.0,20.0,20.0,toys
+fa0bace68b883626200a9047a5ea10ca,beleza_saude,49.0,876.0,1.0,543.0,30.0,12.0,16.0,health beauty
+500870614ddcf5bd84f7d26861026c8a,telefonia,58.0,434.0,3.0,217.0,18.0,4.0,13.0,telephony
+0705b33fb285827a578fce4899f1b921,esporte_lazer,35.0,650.0,1.0,400.0,95.0,6.0,47.0,sports leisure
+83b23a333b811855258c5ec9431f6d3e,beleza_saude,51.0,247.0,2.0,200.0,25.0,10.0,20.0,health beauty
+a130d292151d4bc3d785f3404eea8d96,brinquedos,47.0,406.0,3.0,1875.0,35.0,23.0,28.0,toys
+2ae49b2b174231324f42d783f93d0edc,relogios_presentes,55.0,463.0,2.0,258.0,18.0,10.0,17.0,watches gifts
+54d9ac713e253fa1fae9c8003b011c2a,cool_stuff,57.0,787.0,8.0,1867.0,36.0,6.0,36.0,cool stuff
+59bad18214d8473f32faead52fe7fd4b,informatica_acessorios,52.0,409.0,1.0,200.0,27.0,5.0,20.0,computers accessories
+f9025647e0a95c843a2d85c23df34c6c,papelaria,60.0,298.0,2.0,700.0,66.0,12.0,12.0,stationery
+39b86f4e3aedf22731990099a660a6f5,fashion_bolsas_e_acessorios,59.0,150.0,7.0,200.0,16.0,2.0,20.0,fashion bags accessories
+da97969972a524bca894f97ea6bcff90,automotivo,43.0,186.0,2.0,400.0,35.0,4.0,25.0,auto
+d4d1de9db08cae166ea1a506ea87769b,informatica_acessorios,56.0,631.0,1.0,200.0,22.0,22.0,16.0,computers accessories
+c1dfd7dc17df380ed269d0fc905f6e22,utilidades_domesticas,53.0,413.0,2.0,600.0,16.0,16.0,16.0,housewares
+04c4a4b9c924494fcf82e0fba966f955,relogios_presentes,39.0,364.0,1.0,567.0,26.0,12.0,26.0,watches gifts
+c8a06a6cf1dbd09f3273d65d3dc2da99,beleza_saude,52.0,2496.0,1.0,100.0,16.0,6.0,11.0,health beauty
+b4b50667a9874708d4e3ac962ebb21fa,construcao_ferramentas_seguranca,35.0,969.0,2.0,933.0,20.0,18.0,20.0,construction tools safety
+87d780fa7d2cf3710aa02dc4ca8db985,cama_mesa_banho,57.0,189.0,1.0,1350.0,46.0,2.0,36.0,bed bath table
+2b8db93524783231aa75136bb201e659,telefonia,58.0,138.0,1.0,100.0,18.0,3.0,13.0,telephony
+80fcb8062aff23a658c4b047a08bec66,beleza_saude,46.0,919.0,1.0,200.0,16.0,11.0,11.0,health beauty
+b736d9a2b8c08167e109d209e97833e0,fashion_bolsas_e_acessorios,24.0,485.0,4.0,200.0,16.0,12.0,16.0,fashion bags accessories
+5b226d7c52f86ac72457617f78cff95d,cama_mesa_banho,50.0,381.0,1.0,875.0,25.0,18.0,40.0,bed bath table
+7668f663b32b0678da61622125b39545,cama_mesa_banho,59.0,243.0,3.0,1100.0,37.0,6.0,27.0,bed bath table
+97f1396a5a1f7c07ba51784efdec44b8,utilidades_domesticas,60.0,1632.0,8.0,1400.0,43.0,18.0,18.0,housewares
+06dce482ace017e78349b6f1fa83a022,cama_mesa_banho,44.0,452.0,1.0,550.0,30.0,3.0,19.0,bed bath table
+955129b53464486f9f93074c64b2bd88,informatica_acessorios,56.0,388.0,3.0,150.0,16.0,4.0,12.0,computers accessories
+bdb4be6ce2f7f2b5be0a16088028c7fc,utilidades_domesticas,54.0,851.0,1.0,3100.0,45.0,28.0,26.0,housewares
+7a49adf051c1e6fc5b639a98d17756f0,eletronicos,46.0,233.0,1.0,175.0,21.0,15.0,20.0,electronics
+4a9bd3957391943f2cf8a75a915c4b8a,cool_stuff,58.0,1050.0,1.0,2800.0,40.0,30.0,20.0,cool stuff
+79af04ca7d7a02c456b475f4e8e3fcac,eletrodomesticos_2,59.0,428.0,1.0,15700.0,42.0,33.0,42.0,home appliances 2
+3ae28b124972bb81eddcb644cd284be9,brinquedos,47.0,404.0,1.0,1550.0,18.0,31.0,25.0,toys
+211f62173e6bd1cf140c0b05ecf78cbe,livros_interesse_geral,43.0,551.0,1.0,1600.0,25.0,6.0,18.0,books general interest
+c52388efdb1ce49ebe3fc96cbad34d95,climatizacao,58.0,862.0,1.0,250.0,20.0,6.0,16.0,air conditioning
+f20a14d45e85b05ef554d10d7283f7da,telefonia,51.0,380.0,1.0,125.0,19.0,5.0,11.0,telephony
+fbc1488c1a1e72ba175f53ab29a248e8,perfumaria,27.0,311.0,1.0,560.0,19.0,13.0,17.0,perfumery
+c11517f9dd10e879fe8bed8fdab0e3f5,moveis_decoracao,51.0,1450.0,1.0,11700.0,50.0,21.0,50.0,furniture decor
+071b5dd29feece041c356d172474b113,cine_foto,51.0,905.0,3.0,650.0,45.0,12.0,12.0,cine photo
+37095a57db396667492dcd7e10f5b792,ferramentas_jardim,51.0,86.0,2.0,850.0,16.0,10.0,11.0,garden tools
+48eac3eaf2e50b5f37248cf116476a06,esporte_lazer,31.0,236.0,2.0,950.0,60.0,15.0,15.0,sports leisure
+488d60f672d1e67be88006cd4dbce218,cama_mesa_banho,58.0,2733.0,4.0,1550.0,41.0,15.0,51.0,bed bath table
+75d6b6963340c6063f7f4cfcccfe6a30,perfumaria,51.0,999.0,2.0,400.0,18.0,11.0,20.0,perfumery
+3f55594c92f61283dd292a1e6f1c6427,esporte_lazer,57.0,735.0,2.0,1100.0,46.0,10.0,15.0,sports leisure
+83639e59e789cf2ed557ebf817f1085c,fashion_underwear_e_moda_praia,52.0,579.0,1.0,150.0,42.0,4.0,14.0,fashion underwear beach
+bce474cc95b6e77657e10939b0b4248c,relogios_presentes,51.0,638.0,1.0,310.0,16.0,10.0,12.0,watches gifts
+1ec486885049bbb9b79351d150ed18c4,fashion_bolsas_e_acessorios,36.0,412.0,5.0,100.0,16.0,5.0,20.0,fashion bags accessories
+d85ee6b5fa57f68444d86f77b51ae69d,cama_mesa_banho,58.0,215.0,1.0,1100.0,41.0,18.0,36.0,bed bath table
+880be32f4db1d9f6e2bec38fb6ac23ab,brinquedos,45.0,589.0,4.0,200.0,16.0,7.0,11.0,toys
+c8078bb7927143cdb008e3563230ca61,bebes,40.0,1978.0,4.0,250.0,65.0,11.0,11.0,baby
+db8d62bf1bf1d2dd880c99b88ebff3fb,automotivo,60.0,705.0,2.0,350.0,17.0,21.0,11.0,auto
+bd6e6fce9ada76ea2db0f1912e8e478f,cama_mesa_banho,49.0,381.0,1.0,850.0,25.0,18.0,40.0,bed bath table
+121f7f44c9e25be4873ca9296542ebd3,beleza_saude,56.0,2264.0,2.0,1025.0,23.0,18.0,20.0,health beauty
+af51d485dc5255ba2e18b21b550156e6,malas_acessorios,57.0,674.0,1.0,22350.0,32.0,74.0,53.0,luggage accessories
+98b60cfeeb9f910672c471ffc94541c2,utilidades_domesticas,55.0,205.0,1.0,2100.0,42.0,22.0,28.0,housewares
+815ab08327dd05cc75b2b67311f83239,brinquedos,45.0,698.0,3.0,450.0,20.0,12.0,17.0,toys
+85095e161b46d68305c1293b02c27d23,informatica_acessorios,39.0,1350.0,4.0,217.0,19.0,4.0,15.0,computers accessories
+6cc859e89d080218ff4416539ffa030c,cama_mesa_banho,59.0,225.0,1.0,1600.0,35.0,8.0,29.0,bed bath table
+c37e775cc9f2dd910db751444447fa3d,eletronicos,57.0,810.0,1.0,150.0,19.0,14.0,19.0,electronics
+f819f0c84a64f02d3a5606ca95edd272,relogios_presentes,59.0,452.0,1.0,710.0,19.0,13.0,14.0,watches gifts
+de17feec1983829fec4bc58cadaa43f3,utilidades_domesticas,30.0,203.0,2.0,1100.0,32.0,14.0,32.0,housewares
+b9ee7519d0187d2389af62ba6c612963,esporte_lazer,53.0,212.0,6.0,900.0,28.0,10.0,28.0,sports leisure
+dabe0ebb4c28b903d35030ba1b6c8797,relogios_presentes,40.0,615.0,1.0,400.0,17.0,11.0,12.0,watches gifts
+7cb2ff3193293db892fd5697aa99a19b,moveis_decoracao,56.0,297.0,2.0,950.0,100.0,5.0,20.0,furniture decor
+485977d79fe47209050d22d220aaab7f,cama_mesa_banho,55.0,241.0,1.0,7625.0,50.0,35.0,45.0,bed bath table
+a4aa7c1427c31344e5f7cc3d839fe562,pet_shop,52.0,625.0,8.0,2200.0,50.0,20.0,40.0,pet shop
+fcf6ad274391aea29f5d6e5ef9da5050,pet_shop,51.0,1592.0,2.0,513.0,19.0,15.0,18.0,pet shop
+77cf3aae7aaa73367945ee2b3e3b6776,moveis_decoracao,54.0,486.0,2.0,250.0,16.0,6.0,11.0,furniture decor
+2b0233a7e7ded4751e8e3812f9a4553e,informatica_acessorios,46.0,391.0,1.0,1925.0,37.0,11.0,27.0,computers accessories
+017066298c485af1e19e55363f5dc362,esporte_lazer,41.0,546.0,1.0,100.0,19.0,4.0,11.0,sports leisure
+fb4dc3571e0698692224020b5b1b672a,utilidades_domesticas,35.0,716.0,1.0,400.0,16.0,13.0,11.0,housewares
+ce6e846888716883ea858c8483dc2fef,eletrodomesticos,59.0,489.0,1.0,100.0,27.0,13.0,17.0,home appliances
+985c412b0ac92ed9d8a76bbeab6d44eb,moveis_decoracao,40.0,370.0,3.0,1800.0,34.0,6.0,28.0,furniture decor
+44fded21627553d1886d459384bbce06,eletronicos,56.0,280.0,1.0,150.0,25.0,7.0,16.0,electronics
+ecf9484703bdfb9cfcc1ac9c2084b567,utilidades_domesticas,57.0,270.0,5.0,11400.0,45.0,19.0,45.0,housewares
+12cfb75a481057d8c401f03f870a3305,esporte_lazer,46.0,527.0,7.0,350.0,20.0,10.0,20.0,sports leisure
+96b4ceeea5f4e3997ac6543f49a4f138,perfumaria,56.0,416.0,1.0,950.0,20.0,10.0,20.0,perfumery
+8edf8f0889f2cf40d743f3b983aebd3b,automotivo,56.0,294.0,1.0,1700.0,30.0,10.0,60.0,auto
+4efd35570dbaaa27e216bd8bf3ed4cf3,moveis_escritorio,26.0,1148.0,1.0,15925.0,44.0,57.0,27.0,office furniture
+36c2fb4fa746273709c373f6d6ec6796,cama_mesa_banho,55.0,1714.0,1.0,6038.0,68.0,17.0,47.0,bed bath table
+679c97b6819e657c506237438cacf60f,relogios_presentes,53.0,566.0,2.0,250.0,16.0,11.0,11.0,watches gifts
+e9b3cf27d68caa64832c4a7c460abcb9,market_place,43.0,1373.0,3.0,1200.0,40.0,10.0,30.0,market place
+68bf40b3abd5ffc25981c25df9ed9087,papelaria,50.0,201.0,2.0,8550.0,60.0,20.0,29.0,stationery
+349ce46a0e2e20054aa9d80c48af8816,construcao_ferramentas_iluminacao,41.0,971.0,1.0,1300.0,16.0,19.0,16.0,construction tools lights
+82b73150f90f4fef92913e35b9984bb7,utilidades_domesticas,40.0,545.0,3.0,2200.0,48.0,25.0,25.0,housewares
+9ee0701e1be943cb92d9cd9305fdd026,malas_acessorios,45.0,331.0,2.0,3550.0,25.0,28.0,37.0,luggage accessories
+bfc0d01be79d9038c7720f983bf954e0,relogios_presentes,59.0,2852.0,2.0,950.0,40.0,20.0,12.0,watches gifts
+39a0257f2ddaad536f01a4d2cacf7392,informatica_acessorios,23.0,473.0,1.0,300.0,22.0,9.0,22.0,computers accessories
+b188dcf56044f0301917cd129630fd14,bebes,57.0,833.0,4.0,5300.0,40.0,10.0,40.0,baby
+76f3a48853690a1aacb7c3adc9831ccc,esporte_lazer,57.0,545.0,1.0,17100.0,32.0,32.0,32.0,sports leisure
+b59b5899ecf4bcc294a72fdd48adaa94,telefonia,55.0,419.0,3.0,225.0,17.0,6.0,13.0,telephony
+88bd8458fdc2ceec3e71ef1d867a7b45,telefonia,42.0,260.0,1.0,175.0,18.0,4.0,16.0,telephony
+b60856ce32d90658dbf99b9485327c25,eletronicos,40.0,429.0,1.0,150.0,25.0,7.0,16.0,electronics
+982a0a294a593c7489a1a0a616b5e7c6,utilidades_domesticas,30.0,596.0,1.0,880.0,16.0,25.0,23.0,housewares
+d0ff65b2782e494c2c5b66e19a6e2902,moveis_decoracao,52.0,253.0,2.0,661.0,26.0,20.0,30.0,furniture decor
+3ca5e19399b1bf5a02f81dbbf551a3d5,cama_mesa_banho,54.0,665.0,1.0,750.0,30.0,3.0,24.0,bed bath table
+4ea49b3aa2f6935d765edbb113932311,consoles_games,60.0,490.0,2.0,100.0,18.0,16.0,16.0,consoles games
+0ddc12518a71c5561e6c1054f3816a3e,utilidades_domesticas,41.0,1020.0,1.0,600.0,25.0,15.0,20.0,housewares
+1eb85357e22bf0c8c2a6f10eafad8423,consoles_games,49.0,496.0,2.0,700.0,17.0,7.0,17.0,consoles games
+8cd9fd2917c6e1b0f29acae309d564fe,malas_acessorios,45.0,223.0,1.0,800.0,47.0,10.0,32.0,luggage accessories
+89b121bee266dcd25688a1ba72eefb61,informatica_acessorios,54.0,1169.0,1.0,150.0,16.0,16.0,16.0,computers accessories
+ae7893ab2f9eec6630b5098e6362adc2,bebes,27.0,92.0,2.0,5600.0,25.0,37.0,36.0,baby
+79be3804af052f5d6a473dfdeaa38f06,informatica_acessorios,59.0,164.0,2.0,50.0,13.0,9.0,11.0,computers accessories
+4e62b4abde1f1c9000dec8f2b5cc226e,cama_mesa_banho,46.0,476.0,1.0,1550.0,48.0,8.0,39.0,bed bath table
+6d43aa08ee344527fc3e86b90cfd2379,brinquedos,54.0,66.0,5.0,1000.0,20.0,31.0,30.0,toys
+eed5cbd74fac3bd79b7c7ec95fa7507d,unknown,,,,5900.0,40.0,40.0,40.0,unknown
+eebbed5ed3b134eceb717496c47652ba,cama_mesa_banho,56.0,111.0,1.0,1750.0,30.0,20.0,25.0,bed bath table
+daf7ec5956e0377c86e427d04ba0e315,cama_mesa_banho,49.0,729.0,1.0,3200.0,20.0,30.0,30.0,bed bath table
+394b16cd32e9f883365dd7ebac4edbe0,eletronicos,53.0,377.0,1.0,150.0,25.0,7.0,16.0,electronics
+1dd9019e9b721d5535c59d13551b2469,cama_mesa_banho,52.0,508.0,1.0,550.0,45.0,15.0,35.0,bed bath table
+8f211599d0cde9d8551a6984d758e1f4,utilidades_domesticas,60.0,3133.0,3.0,12800.0,58.0,22.0,54.0,housewares
+e2bb00220a167d9e60b6776ac33717bc,relogios_presentes,60.0,504.0,1.0,300.0,16.0,2.0,20.0,watches gifts
+b5aa3dc3e3492bfa3dfed618a413e779,livros_tecnicos,19.0,222.0,1.0,2100.0,31.0,4.0,24.0,books technical
+f908d3bf313a1308bfb2a46ea2685347,brinquedos,21.0,587.0,2.0,100.0,20.0,20.0,20.0,toys
+7ec65ab95b82f48104a89d8765718663,utilidades_domesticas,59.0,293.0,1.0,1200.0,18.0,27.0,18.0,housewares
+2948658cb6abc82847412be7201bfc4c,beleza_saude,59.0,1030.0,5.0,3500.0,36.0,25.0,21.0,health beauty
+6bbec39677851d73c72b2e8f256f34ad,automotivo,58.0,1269.0,6.0,450.0,16.0,4.0,11.0,auto
+30715b45872148dd5322eb2989228a43,cama_mesa_banho,51.0,290.0,1.0,6050.0,40.0,32.0,40.0,bed bath table
+facd7264a689baabdce2373c4feb2dca,eletronicos,60.0,1005.0,1.0,100.0,16.0,6.0,16.0,electronics
+e940125d0a3c309f58f41cd21e39af06,eletronicos,55.0,287.0,3.0,10550.0,30.0,105.0,20.0,electronics
+73852ee3739732147010f2be732d597c,esporte_lazer,42.0,277.0,1.0,1147.0,25.0,21.0,19.0,sports leisure
+651fe753ea1d6ad3d5744c1bffd3d6e1,beleza_saude,56.0,609.0,1.0,50.0,16.0,16.0,11.0,health beauty
+d322eb25f02924adba73e58dbc36b29c,relogios_presentes,34.0,494.0,1.0,300.0,18.0,9.0,14.0,watches gifts
+e06f99e79036d681effa3de75989bf22,relogios_presentes,54.0,257.0,5.0,200.0,16.0,2.0,20.0,watches gifts
+91b08d34d0ba4db44da2dc382867ba49,telefonia,47.0,137.0,2.0,100.0,16.0,4.0,11.0,telephony
+f175811ea0e0a865f56125dfbb04a8a6,cool_stuff,46.0,882.0,1.0,1050.0,42.0,25.0,15.0,cool stuff
+b30d7b0adcdc4a117f455472548155ec,eletrodomesticos,60.0,1014.0,4.0,150.0,30.0,10.0,15.0,home appliances
+36d74b6f7d7c0e188328c310f9d9896e,fashion_bolsas_e_acessorios,46.0,455.0,6.0,450.0,24.0,10.0,12.0,fashion bags accessories
+cce679660c66e6fbd5c8091dfd29e9cd,cama_mesa_banho,43.0,125.0,1.0,250.0,40.0,4.0,30.0,bed bath table
+ac374e17faa1d8981d2c2329449d1519,cama_mesa_banho,39.0,444.0,1.0,550.0,30.0,3.0,19.0,bed bath table
+0a57f7d2c983bcf8188589a5fea4a8da,relogios_presentes,33.0,932.0,1.0,396.0,18.0,11.0,14.0,watches gifts
+6cbe4bd19efc4606eb2a9448a47e232e,consoles_games,53.0,273.0,8.0,300.0,30.0,20.0,20.0,consoles games
+3025eab6cff12d116410978c3e5fa860,moveis_decoracao,36.0,1621.0,2.0,450.0,16.0,2.0,11.0,furniture decor
+217acb8d395f2dba1228410a1bf20d29,automotivo,35.0,517.0,3.0,200.0,31.0,4.0,21.0,auto
+6d9c13461ff3d5e84455aec235969d23,eletronicos,30.0,361.0,1.0,200.0,25.0,7.0,16.0,electronics
+aa96d291abe7cd0000c25e34bc8ed316,utilidades_domesticas,53.0,679.0,1.0,250.0,16.0,2.0,11.0,housewares
+7c55ea4aea1acf1ce11440010f5aa298,utilidades_domesticas,60.0,1800.0,7.0,9900.0,60.0,50.0,20.0,housewares
+5d6be475f90ab9e808b8484a41bce57a,utilidades_domesticas,39.0,625.0,1.0,400.0,20.0,16.0,16.0,housewares
+167b4b8c4bd0c401bea62f5e050d70a4,informatica_acessorios,55.0,209.0,1.0,517.0,39.0,11.0,13.0,computers accessories
+331a9e69c95aad991177b0f1ef85a261,beleza_saude,39.0,460.0,3.0,800.0,25.0,6.0,16.0,health beauty
+02ca198b1084a6d8ed9e152d84243bfb,bebes,58.0,544.0,3.0,2650.0,16.0,24.0,24.0,baby
+c415aad99ee06e0fe8a58c09d3598ef7,beleza_saude,54.0,1842.0,3.0,2267.0,22.0,13.0,18.0,health beauty
+4601231c3480315049971ea0a61d3839,fashion_bolsas_e_acessorios,58.0,410.0,4.0,150.0,16.0,2.0,11.0,fashion bags accessories
+de6702c748c719cbd13bb814f006ba22,unknown,,,,150.0,16.0,9.0,11.0,unknown
+f21f412e0f365a657f34ec9e2c124353,utilidades_domesticas,32.0,909.0,5.0,400.0,17.0,10.0,17.0,housewares
+a76d6212f99d1253fb7bcfe02ce87d8a,eletronicos,32.0,376.0,1.0,200.0,25.0,7.0,16.0,electronics
+d017a2151d543a9885604dc62a3d9dcc,fashion_bolsas_e_acessorios,59.0,93.0,7.0,250.0,16.0,2.0,11.0,fashion bags accessories
+5d6bea33648f018dbb563f3a2fab09f3,moveis_decoracao,53.0,616.0,1.0,4000.0,30.0,35.0,30.0,furniture decor
+4e3218a8ef98e65fece172834193d05e,telefonia,60.0,2075.0,4.0,300.0,20.0,20.0,20.0,telephony
+210e7569afac412f6f444621ed323449,brinquedos,39.0,171.0,1.0,300.0,16.0,17.0,11.0,toys
+437c05a395e9e47f9762e677a7068ce7,beleza_saude,40.0,409.0,1.0,1110.0,19.0,11.0,18.0,health beauty
+3f994ee4a0b20760d1b173aa65037c95,cool_stuff,56.0,708.0,2.0,5700.0,42.0,21.0,36.0,cool stuff
+26916902eb5c31bdf6ba01894c3ff7db,automotivo,59.0,185.0,3.0,150.0,25.0,25.0,25.0,auto
+c211ff3068fcd2f8898192976d8b3a32,cama_mesa_banho,58.0,58.0,1.0,200.0,20.0,2.0,15.0,bed bath table
+efa490145b5cc82438b6a6de691535fa,informatica_acessorios,57.0,938.0,2.0,500.0,30.0,10.0,11.0,computers accessories
+42faf2e98f0486405f5dfac48e5cba7d,ferramentas_jardim,40.0,275.0,1.0,100.0,16.0,2.0,20.0,garden tools
+6b3de4cb14325f3a0dafa939520f514e,relogios_presentes,58.0,465.0,4.0,250.0,16.0,2.0,11.0,watches gifts
+0d85c435fd60b277ffb9e9b0f88f927a,informatica_acessorios,60.0,919.0,1.0,150.0,16.0,13.0,14.0,computers accessories
+5f90a946d1d1d997e9f4f85cdf90ecfd,relogios_presentes,44.0,412.0,2.0,167.0,16.0,10.0,17.0,watches gifts
+4e44cdda9e34fe16c6403ae9c67ac7ef,casa_construcao,58.0,896.0,4.0,550.0,17.0,26.0,17.0,home construction
+41db6d8062fcd38410c699743ccc0265,telefonia,49.0,1438.0,2.0,125.0,19.0,5.0,11.0,telephony
+b0ff378136f25567d2913b3bf7fd7ea1,esporte_lazer,56.0,843.0,1.0,1400.0,29.0,26.0,25.0,sports leisure
+c9c455f9fd8ca66d3ff7f90a249753b4,esporte_lazer,63.0,1599.0,5.0,500.0,25.0,14.0,22.0,sports leisure
+f3663060e64c25fba789fe033263da67,consoles_games,35.0,100.0,3.0,410.0,20.0,10.0,18.0,consoles games
+4ce9ab528124f89e091b17d11aa2e97c,informatica_acessorios,54.0,222.0,3.0,500.0,36.0,5.0,15.0,computers accessories
+90016d83b9e19d66e40e2c65ae5b31e2,eletrodomesticos,57.0,529.0,1.0,250.0,27.0,12.0,17.0,home appliances
+466d263ce8b7bd275003ee2104428127,telefonia,59.0,266.0,2.0,150.0,18.0,4.0,16.0,telephony
+ccadfeab525a9eb1569983b66e5075c4,fashion_bolsas_e_acessorios,35.0,920.0,7.0,100.0,20.0,2.0,25.0,fashion bags accessories
+20531b0644a0719b8d506c4db3c56609,utilidades_domesticas,55.0,375.0,3.0,10050.0,31.0,61.0,31.0,housewares
+853ece231e7141c4e815d687c68c6b7d,esporte_lazer,53.0,291.0,1.0,3800.0,37.0,44.0,34.0,sports leisure
+1bfe62f326ac7bec0f5a83c10cfff228,brinquedos,47.0,74.0,2.0,5700.0,39.0,30.0,29.0,toys
+d6c69817b519edddbf1b289631b7160e,perfumaria,38.0,1813.0,3.0,4800.0,27.0,20.0,35.0,perfumery
+0152f69b6cf919bcdaf117aa8c43e5a2,cama_mesa_banho,40.0,116.0,1.0,250.0,40.0,4.0,30.0,bed bath table
+165b395c969ae612f3d4009d829ffd94,moveis_decoracao,57.0,2042.0,2.0,3000.0,69.0,11.0,11.0,furniture decor
+0b3f6a2323c814e1b19fd44838c160ef,cama_mesa_banho,52.0,642.0,1.0,550.0,16.0,10.0,16.0,bed bath table
+cac9e5692471a0700418aa3400b9b2b1,bebes,57.0,2440.0,1.0,375.0,29.0,14.0,20.0,baby
+5292d2a10d727811b78d5b7dfb6c96b3,construcao_ferramentas_construcao,52.0,669.0,3.0,550.0,30.0,30.0,18.0,construction tools construction
+c21390fcf82d68f3a008468547cc3e66,beleza_saude,41.0,232.0,2.0,100.0,16.0,16.0,11.0,health beauty
+432357855585cf634fc9923523ce5e4a,alimentos,54.0,1887.0,5.0,1150.0,16.0,14.0,16.0,food
+d6fe3b4ddecd4a8393c6a1385de3bfb6,moveis_escritorio,46.0,1157.0,1.0,16650.0,63.0,58.0,24.0,office furniture
+b7387e83ca44d99d804ba967c492219d,utilidades_domesticas,53.0,1510.0,1.0,700.0,23.0,23.0,23.0,housewares
+bbbfa3b8e4c5b134e919e37e46acbe14,moveis_decoracao,59.0,661.0,3.0,14900.0,40.0,35.0,40.0,furniture decor
+5861173d9af66445f070078cfc29a597,beleza_saude,63.0,1325.0,3.0,400.0,20.0,8.0,50.0,health beauty
+0f81e9b864727ae5398d12bea4061449,eletrodomesticos,57.0,252.0,1.0,1600.0,55.0,7.0,38.0,home appliances
+5d90b82ad1fdff812987fa28158b7984,cama_mesa_banho,52.0,408.0,1.0,1400.0,20.0,20.0,20.0,bed bath table
+9c6c775832b5204b41694fcf8ca60aae,informatica_acessorios,59.0,930.0,4.0,200.0,16.0,8.0,11.0,computers accessories
+af827351cc8287dd464466e8793046b0,beleza_saude,50.0,2278.0,1.0,1230.0,18.0,18.0,16.0,health beauty
+9b4d597238711e4dfc04d98bb2e5ed17,industria_comercio_e_negocios,58.0,1553.0,4.0,5200.0,38.0,30.0,25.0,industry commerce and business
+4633dfeb3a2588bdb52af32d504b44eb,telefonia_fixa,46.0,218.0,4.0,150.0,16.0,4.0,11.0,fixed telephony
+6fa1aab8448ff11026093b6169f05e54,cama_mesa_banho,42.0,339.0,2.0,18100.0,63.0,30.0,44.0,bed bath table
+b1a2c5a9823f4c481150a7ab9e48be70,esporte_lazer,54.0,756.0,1.0,1325.0,21.0,32.0,17.0,sports leisure
+177d3d5bb9d4d29222a222e3b3554f41,papelaria,59.0,241.0,6.0,7550.0,60.0,20.0,29.0,stationery
+1bbf3c5abc34eb8f1d884a7503b7764f,beleza_saude,50.0,2830.0,2.0,350.0,27.0,4.0,11.0,health beauty
+a39cc58c1b5926b6f9f378daa89f1315,casa_construcao,53.0,646.0,1.0,3800.0,30.0,35.0,30.0,home construction
+7bf86b4bc4b643b992d0eeb1514831e7,pet_shop,56.0,2347.0,2.0,8400.0,85.0,10.0,60.0,pet shop
+6023859c9a1cfdb91a9d035c7b2a8121,relogios_presentes,47.0,702.0,2.0,200.0,16.0,11.0,11.0,watches gifts
+23e74bef13b99119b1828789058a126f,livros_tecnicos,55.0,1302.0,1.0,900.0,23.0,3.0,16.0,books technical
+bd8c0934082247e8c53c9b8fe35a4dad,relogios_presentes,37.0,277.0,1.0,483.0,16.0,11.0,16.0,watches gifts
+3dd2a17168ec895c781a9191c1e95ad7,informatica_acessorios,48.0,894.0,1.0,533.0,22.0,11.0,20.0,computers accessories
+c9e6b23635a83b700579ba235b53eaf3,moveis_decoracao,55.0,2043.0,5.0,3000.0,69.0,11.0,11.0,furniture decor
+55ca1ec3b4014b9c43701cbe58713154,esporte_lazer,41.0,189.0,3.0,250.0,30.0,10.0,30.0,sports leisure
+101c51628f18e013a1b2900a8f275fd2,moveis_escritorio,50.0,1745.0,1.0,11000.0,58.0,28.0,58.0,office furniture
+adc32eb18332c495cdfdd97d01520d80,construcao_ferramentas_construcao,54.0,508.0,3.0,667.0,20.0,8.0,21.0,construction tools construction
+f1c7f353075ce59d8a6f3cf58f419c9c,cama_mesa_banho,56.0,162.0,5.0,9750.0,35.0,12.0,30.0,bed bath table
+7b49e585ac8c80b14c9b2815d4db465f,cama_mesa_banho,26.0,421.0,1.0,200.0,16.0,12.0,11.0,bed bath table
+726b4e18f00255e2e63491bcba3f60b8,moveis_colchao_e_estofado,41.0,866.0,1.0,1700.0,70.0,10.0,100.0,furniture mattress and upholstery
+c7c44bf04797742e75274c5f288ae737,perfumaria,51.0,1085.0,1.0,250.0,20.0,20.0,20.0,perfumery
+e5cfaed5125bd848f496ca11de0ce00d,eletronicos,60.0,1687.0,1.0,6700.0,89.0,16.0,35.0,electronics
+a62e25e09e05e6faf31d90c6ec1aa3d1,relogios_presentes,58.0,3006.0,2.0,1000.0,53.0,8.0,18.0,watches gifts
+dc9471db933efad7bf0ce685380578bd,informatica_acessorios,49.0,579.0,1.0,800.0,28.0,20.0,42.0,computers accessories
+1347d4320dcd0acd750e37bb3d94a918,eletrodomesticos,54.0,780.0,5.0,7600.0,30.0,50.0,40.0,home appliances
+4d7585daba2f8b3ed7f87447908b4237,telefonia_fixa,53.0,897.0,2.0,300.0,15.0,8.0,9.0,fixed telephony
+6e4918d7c7d1499da5ef7bae5e0cdef6,eletronicos,34.0,447.0,1.0,150.0,25.0,7.0,16.0,electronics
+04b48e86a968cfe620da1cab5c7556ae,beleza_saude,28.0,648.0,1.0,630.0,21.0,12.0,15.0,health beauty
+5a848e4ab52fd5445cdc07aab1c40e48,unknown,,,,400.0,20.0,12.0,15.0,unknown
+fc2d17e60bdd3349a25f3ca6a802a91e,papelaria,52.0,486.0,2.0,500.0,20.0,20.0,20.0,stationery
+94edefbf96e14b332fdb1f57f5935734,esporte_lazer,50.0,789.0,10.0,200.0,17.0,10.0,11.0,sports leisure
+584d2812194b6a09a05bb9106009b473,unknown,,,,14300.0,70.0,30.0,50.0,unknown
+bdd7ae3003cbfd7704d3664e85201ba0,papelaria,51.0,318.0,5.0,4600.0,60.0,20.0,29.0,stationery
+6a8631b72a2f8729b91514db87e771c0,eletronicos,54.0,614.0,1.0,100.0,17.0,6.0,11.0,electronics
+8d2597b69d4374f067b17eba13383a0e,beleza_saude,60.0,728.0,1.0,225.0,18.0,9.0,12.0,health beauty
+f39a8b27ce90ac582103bf36f09690dd,consoles_games,59.0,1914.0,5.0,300.0,16.0,16.0,16.0,consoles games
+d04bbac48960ecb7ea311b00ca6e1cb7,industria_comercio_e_negocios,52.0,784.0,4.0,11325.0,18.0,105.0,30.0,industry commerce and business
+7e23aeb084e4f123bb9127b00c20e47e,relogios_presentes,54.0,555.0,2.0,200.0,20.0,7.0,15.0,watches gifts
+23601216d4de33d54c6801f27dc59357,bebes,45.0,235.0,2.0,9400.0,75.0,15.0,50.0,baby
+72ef2864978e354bc54f72073b13f17d,informatica_acessorios,56.0,688.0,3.0,500.0,20.0,20.0,20.0,computers accessories
+39c1ee864a1e202ce16e57becca2f68a,casa_construcao,49.0,897.0,5.0,550.0,17.0,26.0,17.0,home construction
+f89d2b130b571d24532514dca6fee2a8,eletronicos,41.0,383.0,1.0,150.0,25.0,7.0,16.0,electronics
+bd7836d8c8cfe05d89e7343cf415eb5c,bebes,49.0,702.0,1.0,250.0,18.0,8.0,24.0,baby
+6adab229374835b551f6402e0dc53267,pet_shop,56.0,499.0,4.0,1250.0,35.0,7.0,48.0,pet shop
+7d4cc5273713b6b98ffb274cb4dc1ba9,cama_mesa_banho,49.0,407.0,1.0,5250.0,49.0,28.0,46.0,bed bath table
+63d6e7ab30f482382c9dfbbccae7da54,eletroportateis,56.0,1031.0,6.0,625.0,21.0,19.0,16.0,small appliances
+389d119b48cf3043d311335e499d9c6b,ferramentas_jardim,59.0,341.0,2.0,1750.0,37.0,22.0,40.0,garden tools
+8a12c0e223d9dbd49ccfcd2ad25d1b30,construcao_ferramentas_construcao,52.0,2683.0,1.0,2490.0,16.0,19.0,24.0,construction tools construction
+36bd3e4daa4604d112f17dccd24ee59e,telefonia,48.0,419.0,2.0,150.0,17.0,8.0,14.0,telephony
+b796ff0faef3d062a8ea7c5ec1085469,esporte_lazer,57.0,763.0,1.0,1175.0,21.0,32.0,17.0,sports leisure
+53ea9da485f6aed8a6f03a85831fe021,relogios_presentes,33.0,439.0,1.0,346.0,18.0,10.0,13.0,watches gifts
+888c130b9cddd7f400c25e1cecdf6b19,perfumaria,58.0,309.0,1.0,550.0,24.0,12.0,16.0,perfumery
+7ae70c929d1b6bcfaa19624f20b4f384,moveis_decoracao,57.0,1987.0,3.0,2400.0,65.0,8.0,45.0,furniture decor
+8c591ab0ca519558779df02023177f44,ferramentas_jardim,47.0,1893.0,1.0,6050.0,20.0,20.0,20.0,garden tools
+4914f8796af2ecd359fd8f44b9b92339,unknown,,,,100.0,16.0,11.0,12.0,unknown
+946344697156947d846d27fe0d503033,cama_mesa_banho,55.0,619.0,1.0,500.0,16.0,17.0,17.0,bed bath table
+d6771ada82143b0a04ba2cf7690bfcc7,utilidades_domesticas,46.0,824.0,3.0,963.0,17.0,15.0,15.0,housewares
+c7bf71951a3b1bb4af307ab6650da6d2,construcao_ferramentas_ferramentas,30.0,251.0,1.0,500.0,23.0,21.0,14.0,costruction tools tools
+6fee267f4631409f41121e09376e8fbc,ferramentas_jardim,52.0,1679.0,4.0,3800.0,29.0,21.0,24.0,garden tools
+2722b7e5f68e776d18fe901638034e54,beleza_saude,43.0,1234.0,5.0,650.0,20.0,20.0,20.0,health beauty
+f731f8587d4088c174397e010cf892a9,perfumaria,47.0,963.0,1.0,375.0,21.0,11.0,17.0,perfumery
+215ec1620e0f8475dcf0a38866aed21e,cama_mesa_banho,49.0,1423.0,1.0,1000.0,35.0,20.0,20.0,bed bath table
+f51dde119b9a90e3c7464f0cc45c0953,eletronicos,47.0,57.0,2.0,150.0,18.0,7.0,11.0,electronics
+dc68ee0fcb033a1ab6714fbb5db60c15,moveis_decoracao,37.0,214.0,1.0,1500.0,30.0,10.0,30.0,furniture decor
+bdc3291ab242ec1effc8eb0987850268,eletronicos,53.0,830.0,1.0,541.0,19.0,12.0,16.0,electronics
+a01d1cbb398e386a4a8f8364401a7584,esporte_lazer,58.0,757.0,2.0,500.0,50.0,5.0,30.0,sports leisure
+a1beef8f3992dbd4cd8726796aa69c53,instrumentos_musicais,59.0,944.0,3.0,3550.0,71.0,34.0,22.0,musical instruments
+b556497a60ced8b40679401ea55d5076,bebes,49.0,888.0,1.0,200.0,33.0,6.0,12.0,baby
+952d57ee94f3a9873bc70d9789a21c8a,moveis_decoracao,63.0,697.0,5.0,2100.0,31.0,49.0,31.0,furniture decor
+060c17562f97e5bb60bc0dfa4dd5b3f2,informatica_acessorios,40.0,675.0,1.0,150.0,18.0,6.0,14.0,computers accessories
+362b773250263786dd58670d2df42c3b,esporte_lazer,51.0,2526.0,1.0,200.0,16.0,16.0,11.0,sports leisure
+48a4f38486c6f54c1bc2614e75aaaff2,bebes,46.0,121.0,1.0,1550.0,38.0,8.0,29.0,baby
+bcee6fd62c36b571fc4522eb3aa7138b,utilidades_domesticas,45.0,1250.0,1.0,5900.0,35.0,13.0,55.0,housewares
+7fab1a1472fdd934397068931f63f3ca,brinquedos,53.0,200.0,10.0,600.0,30.0,25.0,20.0,toys
+ac477a098cb23c128ec2915a4f3c4625,beleza_saude,38.0,1686.0,2.0,717.0,19.0,17.0,14.0,health beauty
+6b61c9889ff5ea54a786b54fff36251f,informatica_acessorios,58.0,552.0,1.0,255.0,19.0,15.0,20.0,computers accessories
+af2d506fb01b724e03591349ad36b67e,bebes,55.0,1681.0,2.0,600.0,20.0,13.0,13.0,baby
+64d33e6bd1b905a31c2f96f584e6a0c8,telefonia,60.0,818.0,6.0,350.0,17.0,4.0,12.0,telephony
+db1e6fed56643b852af3132d255d9ddc,cama_mesa_banho,54.0,289.0,1.0,4050.0,40.0,12.0,38.0,bed bath table
+b1d207586fca400a2370d50a9ba1da98,unknown,,,,350.0,16.0,4.0,11.0,unknown
+665aa1d687284a4d2d2b74c0c6724625,cama_mesa_banho,60.0,259.0,1.0,1550.0,30.0,5.0,30.0,bed bath table
+159dc4423e5092c3baa443379a458fa9,beleza_saude,55.0,1165.0,1.0,1100.0,37.0,12.0,22.0,health beauty
+35ebf08a93899d44e756809e11b14754,eletronicos,55.0,240.0,1.0,150.0,18.0,12.0,15.0,electronics
+73326828aa5efe1ba096223de496f596,alimentos,32.0,1392.0,1.0,330.0,20.0,15.0,16.0,food
+475e8a9ddbebf13af503d1c7eccadb1a,moveis_escritorio,54.0,800.0,2.0,3400.0,27.0,21.0,21.0,office furniture
+db63fab600827fdc6ef686c30f5ccb42,construcao_ferramentas_construcao,56.0,309.0,1.0,550.0,20.0,5.0,25.0,construction tools construction
+1cf1166849ef1df39734ef593d71f20c,perfumaria,35.0,659.0,1.0,200.0,16.0,16.0,16.0,perfumery
+39a9942865c056ed2006a5e8c11d9537,brinquedos,47.0,556.0,5.0,800.0,37.0,14.0,37.0,toys
+35afc973633aaeb6b877ff57b2793310,casa_conforto,56.0,176.0,1.0,1825.0,53.0,10.0,40.0,home confort
+49eeae59754cbcf1abeeffb8f51184ee,cama_mesa_banho,49.0,1077.0,1.0,1575.0,26.0,21.0,23.0,bed bath table
+53759a2ecddad2bb87a079a1f1519f73,ferramentas_jardim,58.0,340.0,2.0,1500.0,30.0,22.0,30.0,garden tools
+ddfadaea6a7a133ae1254ef6221fb4a3,cama_mesa_banho,60.0,270.0,1.0,3500.0,48.0,13.0,40.0,bed bath table
+42a2c92a0979a949ca4ea89ec5c7b934,utilidades_domesticas,41.0,799.0,1.0,7000.0,26.0,47.0,27.0,housewares
+fb55982be901439613a95940feefd9ee,papelaria,52.0,211.0,2.0,7000.0,60.0,20.0,30.0,stationery
+2bd9b51a9ab079e095aca987845d3266,consoles_games,55.0,450.0,1.0,300.0,25.0,15.0,25.0,consoles games
+84d31006cea641457f23b4a720582bde,beleza_saude,40.0,1469.0,3.0,1050.0,18.0,21.0,27.0,health beauty
+b38038fe1cb05fb177de7ea502861ac5,esporte_lazer,34.0,604.0,1.0,1075.0,30.0,24.0,18.0,sports leisure
+a9516a079e37a9c9c36b9b78b10169e8,moveis_escritorio,41.0,1141.0,1.0,8683.0,54.0,64.0,31.0,office furniture
+c073cc5c3c6cff45b33fda27f5f3f807,telefonia,60.0,667.0,2.0,575.0,19.0,16.0,21.0,telephony
+f1e297029531521190bb2312a90df567,moveis_decoracao,51.0,1078.0,1.0,500.0,35.0,7.0,27.0,furniture decor
+234df98e1a567a28c8ff2079fd55198b,informatica_acessorios,61.0,775.0,8.0,750.0,20.0,7.0,50.0,computers accessories
+83aae8023b8feda53259f63e0ec06390,moveis_decoracao,24.0,428.0,8.0,4450.0,40.0,33.0,20.0,furniture decor
+f0f464c1300173b9ed4aeacf16840936,malas_acessorios,42.0,340.0,4.0,550.0,16.0,20.0,15.0,luggage accessories
+36e8b28f4e34b4117e2cde0fd2afe789,beleza_saude,57.0,2431.0,1.0,1617.0,19.0,13.0,16.0,health beauty
+3d5c815469b90f2f4b1bf62ddf6aed25,moveis_decoracao,18.0,385.0,4.0,577.0,17.0,25.0,23.0,furniture decor
+ed7f66fbbc819ef7aa1894d2c34065f1,utilidades_domesticas,57.0,567.0,1.0,1200.0,20.0,15.0,20.0,housewares
+663d6ef343ce527b3548d6a255f89eb8,instrumentos_musicais,59.0,936.0,3.0,450.0,62.0,9.0,23.0,musical instruments
+36ba5561e351eef68d3554697132a9a8,construcao_ferramentas_jardim,55.0,2039.0,6.0,240.0,21.0,7.0,15.0,costruction tools garden
+a12c9204f6f9e90ad1d8ba5571fbfed2,informatica_acessorios,31.0,614.0,2.0,600.0,19.0,13.0,20.0,computers accessories
+a291cc846d74d97f01611894f983073b,cool_stuff,58.0,478.0,1.0,600.0,22.0,6.0,22.0,cool stuff
+2002fc3ec2d8a30a7588628fe7aff958,eletronicos,57.0,432.0,1.0,200.0,16.0,6.0,14.0,electronics
+28beefcab28e6a3b659bae1bf1cbe453,telefonia,54.0,880.0,2.0,250.0,16.0,12.0,14.0,telephony
+dabbb10b2f36548cf2aff2993f4cf5e2,brinquedos,53.0,1013.0,5.0,950.0,40.0,6.0,37.0,toys
+d3e1006ba3735c0d44160026b6e0ced3,automotivo,53.0,2805.0,3.0,1850.0,19.0,16.0,17.0,auto
+6016ec35b91d455a84929e2066601c01,relogios_presentes,35.0,1006.0,1.0,325.0,19.0,10.0,15.0,watches gifts
+acd999849b296e49ab668c7e832ccb72,informatica_acessorios,44.0,169.0,1.0,467.0,16.0,16.0,11.0,computers accessories
+3d48b2b7a184718911dca52c955055e3,informatica_acessorios,59.0,851.0,3.0,400.0,21.0,6.0,14.0,computers accessories
+1060d9ab6b911bfce1439c25afcd790b,informatica_acessorios,39.0,1257.0,1.0,130.0,16.0,13.0,13.0,computers accessories

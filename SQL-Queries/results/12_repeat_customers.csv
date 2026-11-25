@@ -1,0 +1,4 @@
+customer_type,customers,customer_share_pct,revenue,revenue_share_pct
+1 order,91829,96.97,12702404.96,94.44
+2 orders,2639,2.79,647725.13,4.82
+3+ orders,235,0.25,99399.59,0.74

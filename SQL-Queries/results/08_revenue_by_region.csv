@@ -1,0 +1,6 @@
+customer_region,revenue,orders,average_order_value,revenue_share_pct,late_delivery_pct,avg_delivery_days
+Southeast,8794685.26,67146,130.98,65.39,6.13,10.7
+South,1930565.23,13947,138.42,14.35,5.92,14.0
+Northeast,1532195.96,9272,165.25,11.39,12.76,19.9
+Center-West,859469.14,5712,150.47,6.39,6.54,14.9
+North,332614.09,1828,181.96,2.47,8.6,22.5

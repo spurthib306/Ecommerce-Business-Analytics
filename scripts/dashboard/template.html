@@ -1,0 +1,45 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>E-commerce Revenue Dashboard</title>
+<style>
+/*__CSS__*/
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header class="top">
+    <h1>E-commerce Business Performance &amp; Revenue</h1>
+    <p>Olist Brazilian marketplace, orders purchased January 2017 to August 2018. Revenue is item price excluding freight, for orders that were not canceled or unavailable.</p>
+    <div class="meta">Built __BUILT__ from the cleaned dataset and validated against the SQL results.</div>
+  </header>
+
+  <div class="filters" role="group" aria-label="Filters">
+    <label>From<select id="f-from"></select></label>
+    <label>To<select id="f-to"></select></label>
+    <label>Region<select id="f-region"></select></label>
+    <label>State<select id="f-state"></select></label>
+    <label>Category<select id="f-cat"></select></label>
+    <button id="f-reset" type="button">Reset</button>
+    <span class="active-note" id="active-note"></span>
+  </div>
+
+  <div class="kpis" id="kpis"></div>
+  <div class="grid" id="grid"></div>
+
+  <div class="notes">
+    <p>Average order value = revenue / distinct orders. Late = delivered after the estimated date (delivered orders only). Review score is averaged per order.</p>
+    <p>Bar charts ignore their own filter and highlight the selection instead, like Power BI's highlight interaction. Every chart has a Table view.</p>
+  </div>
+</div>
+<script>window.__DATA__ = /*__DATA__*/null;</script>
+<script>
+/*__LIB__*/
+</script>
+<script>
+/*__APP__*/
+</script>
+</body>
+</html>

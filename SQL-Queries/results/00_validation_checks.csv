@@ -1,0 +1,6 @@
+check,value_a,value_b,difference,status
+Total revenue: SQL KPI vs pandas,13449529.68,13449529.68,0.0,MATCH
+Distinct orders: SQL KPI vs pandas,97905.0,97905.0,0.0,MATCH
+Sum of monthly revenue vs KPI total,13449529.679999998,13449529.68,-0.0,MATCH
+Sum of category revenue vs KPI total,13449529.68,13449529.68,0.0,MATCH
+Sum of state revenue vs KPI total,13449529.679999998,13449529.68,-0.0,MATCH
